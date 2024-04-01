@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Song Popularity Predictor</h1>
+        <h1 className="App-title">Song Popularity Predictor</h1>
         <h2 className="App-subtitle">Billboard Ranking</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
