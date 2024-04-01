@@ -24,6 +24,10 @@
   color: white;
 }
 
+.App-subtitle {
+  color: blueviolet;
+}
+
 .App-link {
   color: #61dafb;
 }
