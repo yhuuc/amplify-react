@@ -1,7 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import FileUpload from './FileUpload';
-
+import SongUploader from './SongUploader';
 
 function App() {
   return (
@@ -21,11 +20,10 @@ function App() {
         >
           Learn React
         </a>
-        <FileUpload />
+        <SongUploader />
       </header>
     </div>
   );
 }
-
 
 export default App;
