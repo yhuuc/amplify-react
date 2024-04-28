@@ -1,501 +1,501 @@
-rank,song,artist,year
-1,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,2019
-2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,2019
-3,Without Me,Halsey,2019
-4,Bad Guy,Billie Eilish,2019
-5,Wow.,Post Malone,2019
-6,Happier,Marshmello & Bastille,2019
-7,7 Rings,Ariana Grande,2019
-8,Talk,Khalid,2019
-9,Sicko Mode,Travis Scott,2019
-10,Sucker,Jonas Brothers,2019
-11,High Hopes,Panic! At The Disco,2019
-12,"Thank U, Next",Ariana Grande,2019
-13,Truth Hurts,Lizzo,2019
-14,Dancing With A Stranger,Sam Smith & Normani,2019
-15,Senorita,Shawn Mendes & Camila Cabello,2019
-16,I Don't Care,Ed Sheeran & Justin Bieber,2019
-17,Eastside,"benny blanco, Halsey & Khalid",2019
-18,Going Bad,Meek Mill Featuring Drake,2019
-19,Shallow,Lady Gaga & Bradley Cooper,2019
-20,Better,Khalid,2019
-21,No Guidance,Chris Brown Featuring Drake,2019
-22,Girls Like You,Maroon 5 Featuring Cardi B,2019
-23,Sweet But Psycho,Ava Max,2019
-24,Suge,DaBaby,2019
-25,Middle Child,J. Cole,2019
-26,Drip Too Hard,Lil Baby & Gunna,2019
-27,Someone You Loved,Lewis Capaldi,2019
-28,Ran$om,Lil Tecca,2019
-29,If I Can't Have You,Shawn Mendes,2019
-30,Goodbyes,Post Malone Featuring Young Thug,2019
-31,ZEZE,Kodak Black Featuring Travis Scott & Offset,2019
-32,Better Now,Post Malone,2019
-33,Youngblood,5 Seconds Of Summer,2019
-34,Money In The Grave,Drake Featuring Rick Ross,2019
-35,Speechless,Dan + Shay,2019
-36,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,2019
-37,Please Me,Cardi B & Bruno Mars,2019
-38,Money,Cardi B,2019
-39,You Need To Calm Down,Taylor Swift,2019
-40,Panini,Lil Nas X,2019
-41,Look Back At It,A Boogie Wit da Hoodie,2019
-42,A Lot,21 Savage,2019
-43,ME!,Taylor Swift Featuring Brendon Urie,2019
-44,MIA,Bad Bunny Featuring Drake,2019
-45,Pop Out,Polo G Featuring Lil Tjay,2019
-46,Beautiful Crazy,Luke Combs,2019
-47,Thotiana,Blueface,2019
-48,Lucid Dreams,Juice WRLD,2019
-49,Mo Bamba,Sheck Wes,2019
-50,Beautiful People,Ed Sheeran Featuring Khalid,2019
-51,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,2019
-52,Whiskey Glasses,Morgan Wallen,2019
-53,God's Country,Blake Shelton,2019
-54,Be Alright,Dean Lewis,2019
-55,Pure Water,Mustard & Migos,2019
-56,The Git Up,Blanco Brown,2019
-57,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",2019
-58,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,2019
-59,Envy Me,Calboy,2019
-60,You Say,Lauren Daigle,2019
-61,"Hey Look Ma, I Made It",Panic! At The Disco,2019
-62,Circles,Post Malone,2019
-63,Beer Never Broke My Heart,Luke Combs,2019
-64,The London,"Young Thug, J. Cole & Travis Scott",2019
-65,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,2019
-66,Murder On My Mind,YNW Melly,2019
-67,When The Party's Over,Billie Eilish,2019
-68,Act Up,City Girls,2019
-69,I Like It,"Cardi B, Bad Bunny & J Balvin",2019
-70,Trampoline,SHAED,2019
-71,Leave Me Alone,Flipp Dinero,2019
-72,Breathin,Ariana Grande,2019
-73,Bury A Friend,Billie Eilish,2019
-74,Close Friends,Lil Baby,2019
-75,Baby Shark,Pinkfong,2019
-76,My Type,Saweetie,2019
-77,Worth It,YK Osiris,2019
-78,Only Human,Jonas Brothers,2019
-79,Knockin' Boots,Luke Bryan,2019
-80,Trip,Ella Mai,2019
-81,Rumor,Lee Brice,2019
-82,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,2019
-83,How Do You Sleep?,Sam Smith,2019
-84,Baby,Lil Baby & DaBaby,2019
-85,Look What God Gave Her,Thomas Rhett,2019
-86,Good As You,Kane Brown,2019
-87,Clout,Offset Featuring Cardi B,2019
-88,Love Lies,Khalid & Normani,2019
-89,One Thing Right,Marshmello & Kane Brown,2019
-90,Cash Shit,Megan Thee Stallion Featuring DaBaby,2019
-91,Tequila,Dan + Shay,2019
-92,Shotta Flow,NLE Choppa,2019
-93,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",2019
-94,Talk You Out Of It,Florida Georgia Line,2019
-95,Beautiful,Bazzi Featuring Camila Cabello,2019
-96,Eyes On You,Chase Rice,2019
-97,All To Myself,Dan + Shay,2019
-98,Boyfriend,Ariana Grande & Social House,2019
-99,Walk Me Home,P!nk,2019
-100,Robbery,Juice WRLD,2019
-1,Blinding Lights,The Weeknd,2020
-2,Circles,Post Malone,2020
-3,The Box,Roddy Ricch,2020
-4,Don't Start Now,Dua Lipa,2020
-5,Rockstar,DaBaby Featuring Roddy Ricch,2020
-6,Adore You,Harry Styles,2020
-7,Life Is Good,Future Featuring Drake,2020
-8,Memories,Maroon 5,2020
-9,The Bones,Maren Morris,2020
-10,Someone You Loved,Lewis Capaldi,2020
-11,Say So,Doja Cat,2020
-12,I Hope,Gabby Barrett Featuring Charlie Puth,2020
-13,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2020
-14,Dance Monkey,Tones And I,2020
-15,Savage,Megan Thee Stallion Featuring Beyonce,2020
-16,Roxanne,Arizona Zervas,2020
-17,Intentions,Justin Bieber Featuring Quavo,2020
-18,Everything I Wanted,Billie Eilish,2020
-19,Roses,SAINt JHN,2020
-20,Watermelon Sugar,Harry Styles,2020
-21,Before You Go,Lewis Capaldi,2020
-22,Falling,Trevor Daniel,2020
-23,"10,000 Hours",Dan + Shay & Justin Bieber,2020
-24,WAP,Cardi B Featuring Megan Thee Stallion,2020
-25,Ballin',Mustard & Roddy Ricch,2020
-26,Hot Girl Bummer,blackbear,2020
-27,Blueberry Faygo,Lil Mosey,2020
-28,Heartless,The Weeknd,2020
-29,BOP,DaBaby,2020
-30,Lose You To Love Me,Selena Gomez,2020
-31,Good As Hell,Lizzo,2020
-32,Toosie Slide,Drake,2020
-33,Break My Heart,Dua Lipa,2020
-34,Chasin' You,Morgan Wallen,2020
-35,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,2020
-36,No Guidance,Chris Brown Featuring Drake,2020
-37,My Oh My,Camila Cabello Featuring DaBaby,2020
-38,Dynamite,BTS,2020
-39,Go Crazy,Chris Brown & Young Thug,2020
-40,High Fashion,Roddy Ricch Featuring Mustard,2020
-41,Laugh Now Cry Later,Drake Featuring Lil Durk,2020
-42,Woah,Lil Baby,2020
-43,Death Bed,Powfu Featuring beabadoobee,2020
-44,Senorita,Shawn Mendes & Camila Cabello,2020
-45,HIGHEST IN THE ROOM,Travis Scott,2020
-46,Bad Guy,Billie Eilish,2020
-47,Mood,24kGoldn Featuring iann dior,2020
-48,Rain On Me,Lady Gaga & Ariana Grande,2020
-49,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,2020
-50,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,2020
-51,Heart On Ice,Rod Wave,2020
-52,Nobody But You,Blake Shelton Duet With Gwen Stefani,2020
-53,Trampoline,SHAED,2020
-54,Come & Go,Juice WRLD x Marshmello,2020
-55,Truth Hurts,Lizzo,2020
-56,If The World Was Ending,JP Saxe Featuring Julia Michaels,2020
-57,We Paid,Lil Baby & 42 Dugg,2020
-58,Yummy,Justin Bieber,2020
-59,One Man Band,Old Dominion,2020
-60,Got What I Got,Jason Aldean,2020
-61,Sunday Best,Surfaces,2020
-62,Godzilla,Eminem Featuring Juice WRLD,2020
-63,Bandit,Juice WRLD & YoungBoy Never Broke Again,2020
-64,Party Girl,StaySolidRocky,2020
-65,Die From A Broken Heart,Maddie & Tae,2020
-66,Popstar,DJ Khaled Featuring Drake,2020
-67,All I Want For Christmas Is You,Mariah Carey,2020
-68,One Of Them Girls,Lee Brice,2020
-69,Hard To Forget,Sam Hunt,2020
-70,One Margarita,Luke Bryan,2020
-71,Panini,Lil Nas X,2020
-72,Hot,Young Thug Featuring Gunna,2020
-73,I Hope You're Happy Now,Carly Pearce & Lee Brice,2020
-74,Emotionally Scarred,Lil Baby,2020
-75,Suicidal,YNW Melly & Juice WRLD,2020
-76,The Bigger Picture,Lil Baby,2020
-77,Only Human,Jonas Brothers,2020
-78,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,2020
-79,Sum 2 Prove,Lil Baby,2020
-80,Stuck With U,Ariana Grande & Justin Bieber,2020
-81,Mood Swings,Pop Smoke Featuring Lil Tjay,2020
-82,You Should Be Sad,Halsey,2020
-83,Dior,Pop Smoke,2020
-84,Supalonely,BENEE Featuring Gus Dapperton,2020
-85,Even Though I'm Leaving,Luke Combs,2020
-86,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",2020
-87,Juicy,Doja Cat & Tyga,2020
-88,Be Like That,Kane Brown With Swae Lee & Khalid,2020
-89,Homesick,Kane Brown,2020
-90,Rags2Riches,Rod Wave Featuring ATR Son Son,2020
-91,Bluebird,Miranda Lambert,2020
-92,Wishing Well,Juice WRLD,2020
-93,Does To Me,Luke Combs Featuring Eric Church,2020
-94,P*$$y Fairy (OTW),Jhene Aiko,2020
-95,ily,Surf Mesa Featuring Emilee,2020
-96,More Than My Hometown,Morgan Wallen,2020
-97,Lovin' On You,Luke Combs,2020
-98,Said Sum,Moneybagg Yo,2020
-99,Slide,H.E.R. Featuring YG,2020
-100,Walk Em Down,NLE Choppa Featuring Roddy Ricch,2020
-1,Levitating,Dua Lipa,2021
-2,Save Your Tears,The Weeknd & Ariana Grande,2021
-3,Blinding Lights,The Weeknd,2021
-4,Mood,24kGoldn Featuring iann dior,2021
-5,Good 4 U,Olivia Rodrigo,2021
-6,Kiss Me More,Doja Cat Featuring SZA,2021
-7,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),2021
-8,Drivers License,Olivia Rodrigo,2021
-9,Montero (Call Me By Your Name),Lil Nas X,2021
-10,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,2021
-11,Butter,BTS,2021
-12,Stay,The Kid LAROI & Justin Bieber,2021
-13,Deja Vu,Olivia Rodrigo,2021
-14,Positions,Ariana Grande,2021
-15,Bad Habits,Ed Sheeran,2021
-16,Heat Waves,Glass Animals,2021
-17,Without You,The Kid LAROI,2021
-18,Forever After All,Luke Combs,2021
-19,Go Crazy,Chris Brown & Young Thug,2021
-20,Astronaut In The Ocean,Masked Wolf,2021
-21,34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,2021
-22,What You Know Bout Love,Pop Smoke,2021
-23,My Ex's Best Friend,Machine Gun Kelly X blackbear,2021
-24,Industry Baby,Lil Nas X & Jack Harlow,2021
-25,Therefore I Am,Billie Eilish,2021
-26,Up,Cardi B,2021
-27,Fancy Like,Walker Hayes,2021
-28,Dakiti,Bad Bunny & Jhay Cortez,2021
-29,Best Friend,Saweetie Featuring Doja Cat,2021
-30,Rapstar,Polo G,2021
-31,Heartbreak Anniversary,Giveon,2021
-32,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,2021
-33,Calling My Phone,Lil Tjay Featuring 6LACK,2021
-34,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,2021
-35,Holy,Justin Bieber Featuring Chance The Rapper,2021
-36,On Me,Lil Baby,2021
-37,You Broke Me First.,Tate McRae,2021
-38,Traitor,Olivia Rodrigo,2021
-39,Back In Blood,Pooh Shiesty Featuring Lil Durk,2021
-40,I Hope,Gabby Barrett Featuring Charlie Puth,2021
-41,Dynamite,BTS,2021
-42,Wockesha,Moneybagg Yo,2021
-43,You Right,Doja Cat & The Weeknd,2021
-44,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,2021
-45,Laugh Now Cry Later,Drake Featuring Lil Durk,2021
-46,Need To Know,Doja Cat,2021
-47,Wants And Needs,Drake Featuring Lil Baby,2021
-48,Way 2 Sexy,Drake Featuring Future & Young Thug,2021
-49,Telepatia,Kali Uchis,2021
-50,Whoopty,CJ,2021
-51,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,2021
-52,Good Days,SZA,2021
-53,Starting Over,Chris Stapleton,2021
-54,Body,Megan Thee Stallion,2021
-55,Willow,Taylor Swift,2021
-56,Bang!,AJR,2021
-57,Better Together,Luke Combs,2021
-58,You're Mines Still,Yung Bleu Featuring Drake,2021
-59,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,2021
-60,Essence,Wizkid Featuring Justin Bieber & Tems,2021
-61,Chasing After You,Ryan Hurd With Maren Morris,2021
-62,The Good Ones,Gabby Barrett,2021
-63,Leave Before You Love Me,Marshmello X Jonas Brothers,2021
-64,Glad You Exist,Dan + Shay,2021
-65,Lonely,Justin Bieber & benny blanco,2021
-66,Beggin',Maneskin,2021
-67,Streets,Doja Cat,2021
-68,What's Next,Drake,2021
-69,Famous Friends,Chris Young + Kane Brown,2021
-70,Lil Bit,Nelly & Florida Georgia Line,2021
-71,Thot Shit,Megan Thee Stallion,2021
-72,Late At Night,Roddy Ricch,2021
-73,Kings & Queens,Ava Max,2021
-74,Anyone,Justin Bieber,2021
-75,Track Star,Mooski,2021
-76,Time Today,Moneybagg Yo,2021
-77,Cry Baby,Megan Thee Stallion Featuring DaBaby,2021
-78,All I Want For Christmas Is You,Mariah Carey,2021
-79,No More Parties,Coi Leray Featuring Lil Durk,2021
-80,What's Your Country Song,Thomas Rhett,2021
-81,One Too Many,Keith Urban Duet With P!nk,2021
-82,Arcade,Duncan Laurence,2021
-83,Yonaguni,Bad Bunny,2021
-84,Good Time,Niko Moon,2021
-85,If I Didn't Love You,Jason Aldean & Carrie Underwood,2021
-86,Knife Talk,Drake Featuring 21 Savage & Project Pat,2021
-87,pov,Ariana Grande,2021
-88,Just The Way,Parmalee x Blanco Brown,2021
-89,Take My Breath,The Weeknd,2021
-90,We're Good,Dua Lipa,2021
-91,Hell Of A View,Eric Church,2021
-92,Rockin' Around The Christmas Tree,Brenda Lee,2021
-93,Put Your Records On,Ritt Momney,2021
-94,Happier Than Ever,Billie Eilish,2021
-95,Single Saturday Night,Cole Swindell,2021
-96,Things A Man Oughta Know,Lainey Wilson,2021
-97,Throat Baby (Go Baby),BRS Kash,2021
-98,Tombstone,Rod Wave,2021
-99,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,2021
-100,Todo de Ti,Rauw Alejandro,2021
-1,Heat Waves,Glass Animals,2022
-2,As It Was,Harry Styles,2022
-3,Stay,The Kid LAROI & Justin Bieber,2022
-4,Easy On Me,Adele,2022
-5,Shivers,Ed Sheeran,2022
-6,First Class,Jack Harlow,2022
-7,Big Energy,Latto,2022
-8,Ghost,Justin Bieber,2022
-9,Super Gremlin,Kodak Black,2022
-10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,2022
-11,Wait For U,Future Featuring Drake & Tems,2022
-12,About Damn Time,Lizzo,2022
-13,Bad Habits,Ed Sheeran,2022
-14,Thats What I Want,Lil Nas X,2022
-15,Enemy,Imagine Dragons X JID,2022
-16,Industry Baby,Lil Nas X & Jack Harlow,2022
-17,abcdefu,GAYLE,2022
-18,Need To Know,Doja Cat,2022
-19,Wasted On You,Morgan Wallen,2022
-20,Me Porto Bonito,Bad Bunny & Chencho Corleone,2022
-21,Woman,Doja Cat,2022
-22,Titi Me Pregunto,Bad Bunny,2022
-23,Running Up That Hill (A Deal With God),Kate Bush,2022
-24,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",2022
-25,Late Night Talking,Harry Styles,2022
-26,I Like You (A Happier Song),Post Malone Featuring Doja Cat,2022
-27,You Proof,Morgan Wallen,2022
-28,Bad Habit,Steve Lacy,2022
-29,Sunroof,Nicky Youre & dazy,2022
-30,One Right Now,Post Malone & The Weeknd,2022
-31,Good 4 U,Olivia Rodrigo,2022
-32,Numb Little Bug,Em Beihold,2022
-33,Jimmy Cooks,Drake Featuring 21 Savage,2022
-34,'Til You Can't,Cody Johnson,2022
-35,Fancy Like,Walker Hayes,2022
-36,The Kind Of Love We Make,Luke Combs,2022
-37,I Ain't Worried,OneRepublic,2022
-38,Break My Soul,Beyonce,2022
-39,Something In The Orange,Zach Bryan,2022
-40,Save Your Tears,The Weeknd & Ariana Grande,2022
-41,Smokin Out The Window,Silk Sonic (Bruno Mars & Anderson .Paak),2022
-42,Levitating,Dua Lipa,2022
-43,In A Minute,Lil Baby,2022
-44,Moscow Mule,Bad Bunny,2022
-45,You Right,Doja Cat & The Weeknd,2022
-46,She Had Me At Heads Carolina,Cole Swindell,2022
-47,Vegas,Doja Cat,2022
-48,Pushin P,Gunna & Future Featuring Young Thug,2022
-49,Buy Dirt,Jordan Davis Featuring Luke Bryan,2022
-50,I Hate U,SZA,2022
-51,Boyfriend,Dove Cameron,2022
-52,Glimpse Of Us,Joji,2022
-53,Surface Pressure,Jessica Darrow,2022
-54,Fall In Love,Bailey Zimmerman,2022
-55,Love Nwantiti (Ah Ah Ah),CKay,2022
-56,Super Freaky Girl,Nicki Minaj,2022
-57,Hrs And Hrs,Muni Long,2022
-58,Sand In My Boots,Morgan Wallen,2022
-59,MAMIII,Becky G X Karol G,2022
-60,Knife Talk,Drake Featuring 21 Savage & Project Pat,2022
-61,AA,Walker Hayes,2022
-62,Sweetest Pie,Megan Thee Stallion & Dua Lipa,2022
-63,Provenza,Karol G,2022
-64,Essence,Wizkid Featuring Justin Bieber & Tems,2022
-65,All I Want For Christmas Is You,Mariah Carey,2022
-66,Bam Bam,Camila Cabello Featuring Ed Sheeran,2022
-67,5 Foot 9,Tyler Hubbard,2022
-68,Get Into It (Yuh),Doja Cat,2022
-69,Efecto,Bad Bunny,2022
-70,Rock And A Hard Place,Bailey Zimmerman,2022
-71,Doin' This,Luke Combs,2022
-72,Oh My God,Adele,2022
-73,Better Days,NEIKED X Mae Muller X Polo G,2022
-74,Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,2022
-75,Fingers Crossed,Lauren Spencer Smith,2022
-76,All Too Well (Taylor's Version),Taylor Swift,2022
-77,Party,Bad Bunny & Rauw Alejandro,2022
-78,Despues de La Playa,Bad Bunny,2022
-79,You Should Probably Leave,Chris Stapleton,2022
-80,Rockin' Around The Christmas Tree,Brenda Lee,2022
-81,Broadway Girls,Lil Durk Featuring Morgan Wallen,2022
-82,Take My Name,Parmalee,2022
-83,What Happened To Virgil,Lil Durk Featuring Gunna,2022
-84,Puffin On Zootiez,Future,2022
-85,Like I Love Country Music,Kane Brown,2022
-86,Jingle Bell Rock,Bobby Helms,2022
-87,Ojitos Lindos,Bad Bunny & Bomba Estereo,2022
-88,Trouble With A Heartbreak,Jason Aldean,2022
-89,A Holly Jolly Christmas,Burl Ives,2022
-90,Kiss Me More,Doja Cat Featuring SZA,2022
-91,She Likes It,Russell Dickerson & Jake Scott,2022
-92,Never Say Never,Cole Swindell / Lainey Wilson,2022
-93,Damn Strait,Scotty McCreery,2022
-94,She's All I Wanna Be,Tate McRae,2022
-95,Last Night Lonely,Jon Pardi,2022
-96,Flower Shops,ERNEST Featuring Morgan Wallen,2022
-97,To The Moon!,JNR CHOI & Sam Tompkins,2022
-98,Unholy,Sam Smith & Kim Petras,2022
-99,One Mississippi,Kane Brown,2022
-100,Circles Around This Town,Maren Morris,2022
-1,Last Night,Morgan Wallen,2023
-2,Flowers,Miley Cyrus,2023
-3,Kill Bill,SZA,2023
-4,Anti-Hero,Taylor Swift,2023
-5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",2023
-6,Calm Down,Rema & Selena Gomez,2023
-7,Die For You,The Weeknd & Ariana Grande,2023
-8,Fast Car,Luke Combs,2023
-9,Snooze,SZA,2023
-10,I'm Good (Blue),David Guetta & Bebe Rexha,2023
-11,Unholy,Sam Smith & Kim Petras,2023
-12,You Proof,Morgan Wallen,2023
-13,Something In The Orange,Zach Bryan,2023
-14,Rich Flex,Drake & 21 Savage,2023
-15,As It Was,Harry Styles,2023
-16,Rock And A Hard Place,Bailey Zimmerman,2023
-17,Under The Influence,Chris Brown,2023
-18,Cruel Summer,Taylor Swift,2023
-19,Thinkin' Bout Me,Morgan Wallen,2023
-20,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,2023
-21,Favorite Song,Toosii,2023
-22,Thought You Should Know,Morgan Wallen,2023
-23,Thank God,Kane Brown With Katelyn Brown,2023
-24,Sure Thing,Miguel,2023
-25,All My Life,Lil Durk Featuring J. Cole,2023
-26,Ella Baila Sola,Eslabon Armado X Peso Pluma,2023
-27,Karma,Taylor Swift Featuring Ice Spice,2023
-28,Just Wanna Rock,Lil Uzi Vert,2023
-29,Cuff It,Beyonce,2023
-30,Vampire,Olivia Rodrigo,2023
-31,Fukumean,Gunna,2023
-32,Lavender Haze,Taylor Swift,2023
-33,Players,Coi Leray,2023
-34,Need A Favor,Jelly Roll,2023
-35,Dance The Night,Dua Lipa,2023
-36,Love You Anyway,Luke Combs,2023
-37,One Thing At A Time,Morgan Wallen,2023
-38,Superhero (Heroes & Villains),"Metro Boomin, Future & Chris Brown",2023
-39,Bad Habit,Steve Lacy,2023
-40,La Bebe,Yng Lvcas x Peso Pluma,2023
-41,Golden Hour,JVKE,2023
-42,Religiously,Bailey Zimmerman,2023
-43,Spin Bout U,Drake & 21 Savage,2023
-44,Cupid,Fifty Fifty,2023
-45,Search & Rescue,Drake,2023
-46,Barbie World,Nicki Minaj & Ice Spice With Aqua,2023
-47,Next Thing You Know,Jordan Davis,2023
-48,Escapism,RAYE Featuring 070 Shake,2023
-49,Un x100to,Grupo Frontera X Bad Bunny,2023
-50,Until I Found You,Stephen Sanchez,2023
-51,Shirt,SZA,2023
-52,Paint The Town Red,Doja Cat,2023
-53,Made You Look,Meghan Trainor,2023
-54,Wait In The Truck,HARDY Featuring Lainey Wilson,2023
-55,All I Want For Christmas Is You,Mariah Carey,2023
-56,Everything I Love,Morgan Wallen,2023
-57,Chemical,Post Malone,2023
-58,Heart Like A Truck,Lainey Wilson,2023
-59,"Going, Going, Gone",Luke Combs,2023
-60,Rockin' Around The Christmas Tree,Brenda Lee,2023
-61,Dancin' In The Country,Tyler Hubbard,2023
-62,Daylight,David Kushner,2023
-63,Lift Me Up,Rihanna,2023
-64,Eyes Closed,Ed Sheeran,2023
-65,TQG,Karol G x Shakira,2023
-66,Try That In A Small Town,Jason Aldean,2023
-67,Tennessee Orange,Megan Moroney,2023
-68,Jingle Bell Rock,Bobby Helms,2023
-69,Princess Diana,Ice Spice & Nicki Minaj,2023
-70,Tomorrow 2,GloRilla & Cardi B,2023
-71,A Holly Jolly Christmas,Burl Ives,2023
-72,Where She Goes,Bad Bunny,2023
-73,Bebe Dame,Fuerza Regida X Grupo Frontera,2023
-74,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,2023
-75,I Like You (A Happier Song),Post Malone Featuring Doja Cat,2023
-76,What It Is (Block Boy),Doechii Featuring Kodak Black,2023
-77,Nobody Gets Me,SZA,2023
-78,Rich Men North Of Richmond,Oliver Anthony Music,2023
-79,Super Freaky Girl,Nicki Minaj,2023
-80,Dial Drunk,Noah Kahan With Post Malone,2023
-81,What Was I Made For?,Billie Eilish,2023
-82,Seven,Jung Kook Featuring Latto,2023
-83,Wait For U,Future Featuring Drake & Tems,2023
-84,Last Christmas,Wham!,2023
-85,Handle On You,Parker McCollum,2023
-86,Por Las Noches,Peso Pluma,2023
-87,Memory Lane,Old Dominion,2023
-88,Area Codes,Kaliii,2023
-89,Bury Me In Georgia,Kane Brown,2023
-90,PRC,Peso Pluma X Natanael Cano,2023
-91,What My World Spins Around,Jordan Davis,2023
-92,Ain't That Some,Morgan Wallen,2023
-93,Wild As Her,Corey Kent,2023
-94,Peaches & Eggplants,Young Nudy Featuring 21 Savage,2023
-95,I Wrote The Book,Morgan Wallen,2023
-96,"Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,2023
-97,Meltdown,Travis Scott Featuring Drake,2023
-98,Put It On Da Floor Again,Latto Featuring Cardi B,2023
-99,Bloody Mary,Lady Gaga,2023
-100,Watermelon Moonshine,Lainey Wilson,2023
+billboard_ranking,song,artist,year,popular_or_not,album_id,album,spotify_popularity,audio_link
+1,Old Town Road,Lil Nas X Featuring Billy Ray Cyrus,2019,1,4IRiXE5NROxknUSAUSjMoO,7 EP,77,https://p.scdn.co/mp3-preview/32744d501b733e5b31d25448540e365db2600c45?cid=6a78982078cb477d900388b0470ad9ad
+2,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone & Swae Lee,2019,1,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,86,
+3,Without Me,Halsey,2019,1,68enXe5XcJdciSDAZr0Alr,Manic,82,
+4,Bad Guy,Billie Eilish,2019,1,0S0KGZnfBGSIssfF54WSJh,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",83,
+5,Wow.,Post Malone,2019,1,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,82,
+6,Happier,Marshmello & Bastille,2019,1,2u4Yp2ADTKYPwFSBFL4ffa,Happier,85,https://p.scdn.co/mp3-preview/a23fe33122a12a302b97c443ab82473ce55df8fd?cid=6a78982078cb477d900388b0470ad9ad
+7,7 Rings,Ariana Grande,2019,1,2fYhqwDWXjbpjaIJPEfKFw,"thank u, next",85,
+8,Talk,Khalid,2019,1,6KT8x5oqZJl9CcnM66hddo,Free Spirit,72,https://p.scdn.co/mp3-preview/661e932327a67700d06ea7aeebf13de8c5b56d3d?cid=6a78982078cb477d900388b0470ad9ad
+9,Sicko Mode,Travis Scott,2019,1,41GuZcammIkupMPKH2OJ6I,ASTROWORLD,85,https://p.scdn.co/mp3-preview/8229545ded5cacf393f62b17af653dfc8171fc85?cid=6a78982078cb477d900388b0470ad9ad
+10,Sucker,Jonas Brothers,2019,1,1Uf67JAtkVWfdydzFFqNF2,Happiness Begins,81,
+11,High Hopes,Panic! At The Disco,2019,1,6ApYSpXF8GxZAgBTHDzYge,Pray for the Wicked,84,https://p.scdn.co/mp3-preview/f6995ad54d79b7ffaf0da6833409666ada11a173?cid=6a78982078cb477d900388b0470ad9ad
+12,"Thank U, Next",Ariana Grande,2019,1,5UACk85y1hNRSUtY0ss8pb,k bye for now (swt live),42,
+13,Truth Hurts,Lizzo,2019,1,2KJjOBX280F3hZZE1xO33O,Cuz I Love You (Super Deluxe),73,https://p.scdn.co/mp3-preview/3881b5ad53b2b6f1600bbc3b23a86ae256077ace?cid=6a78982078cb477d900388b0470ad9ad
+14,Dancing With A Stranger,Sam Smith & Normani,2019,1,5XCBX16KNYsAe7V5hQV9mC,Love Goes,79,
+15,Senorita,Shawn Mendes & Camila Cabello,2019,1,0xzScN8P3hQAz3BT3YYX5w,Shawn Mendes (Deluxe),81,
+16,I Don't Care,Ed Sheeran & Justin Bieber,2019,1,5Nux7ozBJ5KJ02QYWwrneR,I Don't Care (with Justin Bieber),77,https://p.scdn.co/mp3-preview/03dbc7b6fcafda4f5c223036f0ca919f2b65da25?cid=6a78982078cb477d900388b0470ad9ad
+17,Eastside,"benny blanco, Halsey & Khalid",2019,1,7LreUNVNWm9I2bIcD0WqZk,RAW,38,
+18,Going Bad,Meek Mill Featuring Drake,2019,1,2Iimezk7HSkuLBTkN4XDGD,Hiphop Hits,14,https://p.scdn.co/mp3-preview/74a62be3a87dc4071ba8135d9a1ee95249d9e91f?cid=6a78982078cb477d900388b0470ad9ad
+19,Shallow,Lady Gaga & Bradley Cooper,2019,1,4sLtOBOzn4s3GDUv3c5oJD,A Star Is Born Soundtrack,85,
+20,Better,Khalid,2019,1,4UNwL1B7JoymNUiTFJa52B,Suncity,77,https://p.scdn.co/mp3-preview/53628306c2f75919230ea58eb3083adabe6a99d5?cid=6a78982078cb477d900388b0470ad9ad
+21,No Guidance,Chris Brown Featuring Drake,2019,1,1BfLzaTFI5qKsAAk0Ae6aV,Indigo,78,https://p.scdn.co/mp3-preview/1b5fe75b6bfa48ebacdfe0ee11e8c548ee96e2f3?cid=6a78982078cb477d900388b0470ad9ad
+22,Girls Like You,Maroon 5 Featuring Cardi B,2019,1,1Li4rADxSxjT2g4xqUcMYh,Red Pill Blues (Deluxe),74,
+23,Sweet But Psycho,Ava Max,2019,1,26c7MmQ4w8EAvVLb4jilaM,Heaven & Hell,82,https://p.scdn.co/mp3-preview/fab7f8e87979878248e78a3cdb7e28222d45dcec?cid=6a78982078cb477d900388b0470ad9ad
+24,Suge,DaBaby,2019,1,0O1PJ0t69iTO5yWrIeIga0,Baby On Baby,69,
+25,Middle Child,J. Cole,2019,1,3TaYhEM7MtqukeISKBV2cx,TrapStar Turnt PopStar,60,https://p.scdn.co/mp3-preview/211720b48087e0906896d195c8f4244f78892078?cid=6a78982078cb477d900388b0470ad9ad
+26,Drip Too Hard,Lil Baby & Gunna,2019,1,2yXnY2NiaZk9QiJJittS81,Drip Harder,83,
+27,Someone You Loved,Lewis Capaldi,2019,1,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,90,
+28,Ran$om,Lil Tecca,2019,1,1I6FpscJIfwf4T56VxGVsB,We Love You Tecca,82,
+29,If I Can't Have You,Shawn Mendes,2019,1,0xzScN8P3hQAz3BT3YYX5w,Shawn Mendes (Deluxe),74,
+30,Goodbyes,Post Malone Featuring Young Thug,2019,1,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,79,
+31,ZEZE,Kodak Black Featuring Travis Scott & Offset,2019,1,5n1GSzC1Reao29ScnpLYqp,Dying to Live,79,https://p.scdn.co/mp3-preview/08f1dd44f568b292b28283d9da851c0625ef0075?cid=6a78982078cb477d900388b0470ad9ad
+32,Better Now,Post Malone,2019,1,6trNtQUgC8cgbWcqoMYkOR,beerbongs & bentleys,82,
+33,Youngblood,5 Seconds Of Summer,2019,1,2D0Hi3Jj6RFnpWDcSa0Otu,Youngblood (Deluxe),83,
+34,Money In The Grave,Drake Featuring Rick Ross,2019,1,00HZxSA1sOS9T3nA950sg4,The Best In The World Pack,77,
+35,Speechless,Dan + Shay,2019,1,0g1F5eGVwX4Sxi1n8ojPkE,Dan + Shay,70,https://p.scdn.co/mp3-preview/debf88dcd55688f29c5863e8f99f39f11997870b?cid=6a78982078cb477d900388b0470ad9ad
+36,"Break Up With Your Girlfriend, I'm Bored",Ariana Grande,2019,1,5UACk85y1hNRSUtY0ss8pb,k bye for now (swt live),45,
+37,Please Me,Cardi B & Bruno Mars,2019,1,5a4sJJ3qjn6hqRsvm0Veso,Please Me,77,https://p.scdn.co/mp3-preview/238d7b3cfe4c5723f5405dd34d737a709db57608?cid=6a78982078cb477d900388b0470ad9ad
+38,Money,Cardi B,2019,1,2drqVzCt52KiDxKgl0Rq0P,Money,71,https://p.scdn.co/mp3-preview/9b2382588021d972339db42f947e740135fa8577?cid=6a78982078cb477d900388b0470ad9ad
+39,You Need To Calm Down,Taylor Swift,2019,1,1NAmidJlEaVgA3MpcPFYGq,Lover,83,
+40,Panini,Lil Nas X,2019,1,71BrrQxz8mZAneNSDE9Lov,Panini,69,https://p.scdn.co/mp3-preview/e9bf27ec0415fedffcfd48953b80352709664140?cid=6a78982078cb477d900388b0470ad9ad
+41,Look Back At It,A Boogie Wit da Hoodie,2019,1,3r5hf3Cj3EMh1C2saQ8jyt,Hoodie SZN,81,https://p.scdn.co/mp3-preview/f2e60f4404785f1bdc8722f5315801dfb7aef2c6?cid=6a78982078cb477d900388b0470ad9ad
+42,A Lot,21 Savage,2019,1,007DWn799UWvfY1wwZeENR,i am > i was,81,https://p.scdn.co/mp3-preview/8e4bedd4dd85c00a3cd298e59f209fd23818b7d6?cid=6a78982078cb477d900388b0470ad9ad
+43,ME!,Taylor Swift Featuring Brendon Urie,2019,1,4UVHskbDYdguFDn5IHsQok,ME! (Originally Performed by Taylor Swift & Brendon Urie),10,https://p.scdn.co/mp3-preview/ca72bfb7f9336838a2f6e41e5d190592ab8b821c?cid=6a78982078cb477d900388b0470ad9ad
+44,MIA,Bad Bunny Featuring Drake,2019,1,7CjJb2mikwAWA1V6kewFBF,X 100PRE,77,https://p.scdn.co/mp3-preview/16d353203889bd30097912a96e2788a097e5e328?cid=6a78982078cb477d900388b0470ad9ad
+45,Pop Out,Polo G Featuring Lil Tjay,2019,1,26ztFK3E69j5THJQdyxC5w,Die A Legend,78,https://p.scdn.co/mp3-preview/48e0af5e57feb139e0f3bfaf6ccaf87b5f9475ab?cid=6a78982078cb477d900388b0470ad9ad
+46,Beautiful Crazy,Luke Combs,2019,1,53Oa5Bu0UTU8o8qCTaHKoz,This One's for You Too (Deluxe Edition),82,https://p.scdn.co/mp3-preview/7160f5cd6c0e3aff6e2251b018bb0b88d2b8c101?cid=6a78982078cb477d900388b0470ad9ad
+47,Thotiana,Blueface,2019,1,4f3xh6cp33tAaQVXEar0Cj,Famous Cryp,64,https://p.scdn.co/mp3-preview/d4fb10001ac5570224a6905617e1a4fed54d33df?cid=6a78982078cb477d900388b0470ad9ad
+48,Lucid Dreams,Juice WRLD,2019,1,6tkjU4Umpo79wwkgPMV3nZ,Goodbye & Good Riddance,84,
+49,Mo Bamba,Sheck Wes,2019,1,15Id9Jrqab8IwHFirdrrLp,MUDBOY,79,
+50,Beautiful People,Ed Sheeran Featuring Khalid,2019,1,3oIFxDIo2fwuk4lwCmFZCx,No.6 Collaborations Project,73,https://p.scdn.co/mp3-preview/2b06c65cce16bd4ef3280275951b612cbc423411?cid=6a78982078cb477d900388b0470ad9ad
+51,Wake Up In The Sky,Gucci Mane X Bruno Mars X Kodak Black,2019,1,5xqQtdlJUY7Fg4BMp13LrX,Evil Genius,75,https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7?cid=6a78982078cb477d900388b0470ad9ad
+52,Whiskey Glasses,Morgan Wallen,2019,1,1IR2nlwX6YVTXXeu2qzoWO,If I Know Me,81,https://p.scdn.co/mp3-preview/8bfbda21b7e6c086f8d5461c05226cbf2f3e31fa?cid=6a78982078cb477d900388b0470ad9ad
+53,God's Country,Blake Shelton,2019,1,5b92Q0wcU49AnhBmu3IxOx,God's Country,69,https://p.scdn.co/mp3-preview/47f5419d3d33a2311e09b876b5b86d4d63b4b8d1?cid=6a78982078cb477d900388b0470ad9ad
+54,Be Alright,Dean Lewis,2019,1,61G7KL6rpj167r6H4CzS8C,A Place We Knew,78,
+55,Pure Water,Mustard & Migos,2019,1,2WrNHOba5u6P9S9xEboaUy,Perfect Ten,75,
+56,The Git Up,Blanco Brown,2019,1,2oxv6Q0GYUkYqz2dhUKo12,Honeysuckle & Lightning Bugs,68,https://p.scdn.co/mp3-preview/aa96f58a330a92dee045a6358bc8999ca4542a00?cid=6a78982078cb477d900388b0470ad9ad
+57,Taki Taki,"DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",2019,1,2MFS6WG6jnPAgvJpV3PehR,Carte Blanche,73,
+58,Close To Me,Ellie Goulding X Diplo Featuring Swae Lee,2019,1,4bLCVUEB9YWKEeaJm8FfqQ,Close To Me (feat. Swae Lee),61,
+59,Envy Me,Calboy,2019,1,6gH6TAkytLzyXYiTbJQL0O,Wildboy,66,https://p.scdn.co/mp3-preview/a2be01a82601edca9d83040cf0749dc82defa70f?cid=6a78982078cb477d900388b0470ad9ad
+60,You Say,Lauren Daigle,2019,1,6pmoTLfsPpn0wisT3YFJSN,Look Up Child,76,https://p.scdn.co/mp3-preview/a23e460aac33414336dc273cf3f246bec41aa499?cid=6a78982078cb477d900388b0470ad9ad
+61,"Hey Look Ma, I Made It",Panic! At The Disco,2019,1,6ApYSpXF8GxZAgBTHDzYge,Pray for the Wicked,68,https://p.scdn.co/mp3-preview/391b9af551cee3ebd0d6c6ce355a3095d2193df2?cid=6a78982078cb477d900388b0470ad9ad
+62,Circles,Post Malone,2019,1,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,87,
+63,Beer Never Broke My Heart,Luke Combs,2019,1,0S9D5NIDp2YXhYwlvuJzqx,What You See Is What You Get,81,https://p.scdn.co/mp3-preview/545db391946df7d9cd3a7ac7fbc79b128e4b2ee5?cid=6a78982078cb477d900388b0470ad9ad
+64,The London,"Young Thug, J. Cole & Travis Scott",2019,1,1bnHPO4dKK7IjvgrtVBcQh,So Much Fun,67,https://p.scdn.co/mp3-preview/6a2dd9049a646e3336c09bbd01fbc8665d9f5ca3?cid=6a78982078cb477d900388b0470ad9ad
+65,Con Calma,Daddy Yankee & Katy Perry Featuring Snow,2019,1,1otwHKoQ5KPaiekpYk4tWh,Con Calma,80,
+66,Murder On My Mind,YNW Melly,2019,1,7naY6j4wcgUxfHB98G79CW,I AM YOU,79,https://p.scdn.co/mp3-preview/c177cf9cc65ab2364123707e1784ca72d8e7b39e?cid=6a78982078cb477d900388b0470ad9ad
+67,When The Party's Over,Billie Eilish,2019,1,1U1r8TvqrZjvgRuN18afwy,Trend and Viral Vol 9,4,https://p.scdn.co/mp3-preview/3aebba7fb68bdd6f14ebbc4ecc8f89c55bf4f955?cid=6a78982078cb477d900388b0470ad9ad
+68,Act Up,City Girls,2019,1,6zzs0HMzEPRotJaEJe8uwJ,Girl Code,66,
+69,I Like It,"Cardi B, Bad Bunny & J Balvin",2019,1,4KdtEKjY3Gi0mKiSdy96ML,Invasion of Privacy,78,https://p.scdn.co/mp3-preview/0fe3542d88da43dd131627df756ac1ce318713fd?cid=6a78982078cb477d900388b0470ad9ad
+70,Trampoline,SHAED,2019,1,5wg6T8bCVnRk3ToKy0yXG5,Melt (Deluxe),69,
+71,Leave Me Alone,Flipp Dinero,2019,1,3zMEkZNzS5yJDcnqPhIk10,LOVE FOR GUALA,71,https://p.scdn.co/mp3-preview/a87f5eb0c5abca7b0575aeb3cd356b5564e3239c?cid=6a78982078cb477d900388b0470ad9ad
+72,Breathin,Ariana Grande,2019,1,3tx8gQqWbGwqIGZHqDNrGe,Sweetener,71,
+73,Bury A Friend,Billie Eilish,2019,1,0S0KGZnfBGSIssfF54WSJh,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",76,
+74,Close Friends,Lil Baby,2019,1,2yXnY2NiaZk9QiJJittS81,Drip Harder,73,
+75,Baby Shark,Pinkfong,2019,1,1S7mumn7D4riEX2gVWYgPO,Pinkfong Animal Songs,78,https://p.scdn.co/mp3-preview/b0618e7fab1f2953b89651b116b25b379cff3da2?cid=6a78982078cb477d900388b0470ad9ad
+76,My Type,Saweetie,2019,1,7mdpibDh6Sec6o6zItcSEH,ICY,73,https://p.scdn.co/mp3-preview/e8db649970a84107daa915d122ebff908019b4e5?cid=6a78982078cb477d900388b0470ad9ad
+77,Worth It,YK Osiris,2019,1,52iN0AN48yBH5pF6C65ZmI,The Golden Child,68,
+78,Only Human,Jonas Brothers,2019,1,1Uf67JAtkVWfdydzFFqNF2,Happiness Begins,71,
+79,Knockin' Boots,Luke Bryan,2019,1,0wnaUYW25dVLAzk41fp1Ez,Born Here Live Here Die Here,70,
+80,Trip,Ella Mai,2019,1,67ErXRS9s9pVG8JmFbrdJ0,Ella Mai,75,
+81,Rumor,Lee Brice,2019,1,3GyH4lUfzEkbxlaW5xTYYL,Lee Brice,72,https://p.scdn.co/mp3-preview/dd79faa244a7f607f03ebca514b9fc85edfa47ee?cid=6a78982078cb477d900388b0470ad9ad
+82,Swervin,A Boogie Wit da Hoodie Featuring 6ix9ine,2019,1,3r5hf3Cj3EMh1C2saQ8jyt,Hoodie SZN,72,https://p.scdn.co/mp3-preview/82ea9bcc8461f345226022976ee4bb1b7091cac6?cid=6a78982078cb477d900388b0470ad9ad
+83,How Do You Sleep?,Sam Smith,2019,1,7baaCf70tVcUBL2bbkuXjo,How Do You Sleep?,70,
+84,Baby,Lil Baby & DaBaby,2019,1,59zpaLOByFkJhc9D5Xqna9,Quality Control: Control The Streets Volume 2,76,
+85,Look What God Gave Her,Thomas Rhett,2019,1,5gnWhEFNbtCn0RLG2cp90g,Center Point Road,68,
+86,Good As You,Kane Brown,2019,1,4yf4bD1iM96hBH6aIc6SaF,Experiment Extended,64,https://p.scdn.co/mp3-preview/1c6390b8df31305342fa0e7060a93bc8cccacabb?cid=6a78982078cb477d900388b0470ad9ad
+87,Clout,Offset Featuring Cardi B,2019,1,6bPpXqJRpjwy0hLyUGtzYc,FATHER OF 4,67,
+88,Love Lies,Khalid & Normani,2019,1,4CEAev7neETRdqBFtzA8B9,Love Lies (with Normani),74,https://p.scdn.co/mp3-preview/aa4f4d0898af5fc2f40c3c3dd1c1a0ece80df384?cid=6a78982078cb477d900388b0470ad9ad
+89,One Thing Right,Marshmello & Kane Brown,2019,1,13pvchQvJxxpvvtsasA4NG,One Thing Right (Remixes),34,https://p.scdn.co/mp3-preview/4785fd01ada1640d235bd7e45faa56d6b9270ac0?cid=6a78982078cb477d900388b0470ad9ad
+90,Cash Shit,Megan Thee Stallion Featuring DaBaby,2019,1,5WLquTz7nUnsHCj80b6wci,Fever,64,https://p.scdn.co/mp3-preview/00b607fa9c2b522130098a2e3a579f1f19fa805c?cid=6a78982078cb477d900388b0470ad9ad
+91,Tequila,Dan + Shay,2019,1,0g1F5eGVwX4Sxi1n8ojPkE,Dan + Shay,71,https://p.scdn.co/mp3-preview/bf69830f0ee23284aa7559c2f1938ce883797837?cid=6a78982078cb477d900388b0470ad9ad
+92,Shotta Flow,NLE Choppa,2019,1,6li8kT6o9RM59IxRyZZJYh,Cottonwood,75,https://p.scdn.co/mp3-preview/4a23dd9141e068958bc0231c2a0bed89f3397137?cid=6a78982078cb477d900388b0470ad9ad
+93,Hot Girl Summer,"Megan Thee Stallion, Nicki Minaj & Ty Dolla $ign",2019,1,2Xqs4kJBrZAHN1XVqy9QOK,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),63,https://p.scdn.co/mp3-preview/7b051bd20476e3300f9b3578bf633684976aa90f?cid=6a78982078cb477d900388b0470ad9ad
+94,Talk You Out Of It,Florida Georgia Line,2019,1,3GV2TdiVjl8E5XXBEuiiyX,The Acoustic Sessions,35,
+95,Beautiful,Bazzi Featuring Camila Cabello,2019,1,6hCR3zQtRH0IgookOYt771,Beautiful (feat. Camila Cabello),71,https://p.scdn.co/mp3-preview/68869934e36a263274c48611101cf5f1d332a89f?cid=6a78982078cb477d900388b0470ad9ad
+96,Eyes On You,Chase Rice,2019,1,2jynxUXDGPBkMgbXhL3KGQ,Lambs & Lions,67,https://p.scdn.co/mp3-preview/fce3b3da73685db0982b56618f4febe3b4fc25ab?cid=6a78982078cb477d900388b0470ad9ad
+97,All To Myself,Dan + Shay,2019,1,0g1F5eGVwX4Sxi1n8ojPkE,Dan + Shay,63,https://p.scdn.co/mp3-preview/56e90252cc71b7572ee0f76149cc1c91c9d719c2?cid=6a78982078cb477d900388b0470ad9ad
+98,Boyfriend,Ariana Grande & Social House,2019,1,3zVB99XMdbP9HTVNg0GJwV,boyfriend,78,
+99,Walk Me Home,P!nk,2019,1,0hgt3tZlHEGukN56ueTGcL,Hurts 2B Human,65,https://p.scdn.co/mp3-preview/0db0e88b98d1848a4656ab3fc5b18e3a4f59cf07?cid=6a78982078cb477d900388b0470ad9ad
+100,Robbery,Juice WRLD,2019,1,1btu0SV2DOI5HoFsvUd78F,Death Race For Love (Bonus Track Version),80,
+1,Blinding Lights,The Weeknd,2020,1,2ektqBOgstESA5KX3CxdYU,Blinding Lights (Piano Version),57,https://p.scdn.co/mp3-preview/f01c1edc268d62bbbed8a5c3cb99f31cf0f4081d?cid=6a78982078cb477d900388b0470ad9ad
+2,Circles,Post Malone,2020,1,4g1ZRSobMefqF6nelkgibi,Hollywood's Bleeding,87,
+3,The Box,Roddy Ricch,2020,1,52u4anZbHd6UInnmHRFzba,Please Excuse Me for Being Antisocial,84,https://p.scdn.co/mp3-preview/6306fda4df77cbcaf47c8b9fa3575ce457504c9c?cid=6a78982078cb477d900388b0470ad9ad
+4,Don't Start Now,Dua Lipa,2020,1,0ix3XtPV1LwmZADsprKxcp,Don't Start Now,76,https://p.scdn.co/mp3-preview/87258da8a9eb8d0a0d53071e06612955e6d3b28f?cid=6a78982078cb477d900388b0470ad9ad
+5,Rockstar,DaBaby Featuring Roddy Ricch,2020,1,3xGZrrUdbVXu3CRXSSsPQZ,ROCKSTAR (feat. Roddy Ricch) [BLM REMIX],50,
+6,Adore You,Harry Styles,2020,1,16gSYVkMETG28G6oNcOwpV,Piano Dreamers Cover Harry Styles (Instrumental),23,https://p.scdn.co/mp3-preview/f4fc2b9ea5082c3fd4f04743227973e30feca59a?cid=6a78982078cb477d900388b0470ad9ad
+7,Life Is Good,Future Featuring Drake,2020,1,4bNPOFOzxGhF5jhfIK6lit,High Off Life,75,https://p.scdn.co/mp3-preview/554606d4fbc4afd5b835c130397f6ac86ba3cee9?cid=6a78982078cb477d900388b0470ad9ad
+8,Memories,Maroon 5,2020,1,1pCA38N6MkLlthXtAOvZTU,JORDI (Deluxe),85,
+9,The Bones,Maren Morris,2020,1,3XpxioqzCTiqOSuHTXuaGf,GIRL,71,https://p.scdn.co/mp3-preview/309b0ae04efe3a3e06af691d9e014991d6ff6149?cid=6a78982078cb477d900388b0470ad9ad
+10,Someone You Loved,Lewis Capaldi,2020,1,5658aM19fA3JVwTK6eQX70,Divinely Uninspired To A Hellish Extent,90,
+11,Say So,Doja Cat,2020,1,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,78,https://p.scdn.co/mp3-preview/7131c09d3479d06d84281176255c851d88f6670b?cid=6a78982078cb477d900388b0470ad9ad
+12,I Hope,Gabby Barrett Featuring Charlie Puth,2020,1,4Iqfx63CZhFGGIHiAvLxXY,Goldmine,61,https://p.scdn.co/mp3-preview/bfa518d2e1ff6bc87a8af8454fe799582cd09482?cid=6a78982078cb477d900388b0470ad9ad
+13,Whats Poppin,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",2020,1,5g2INX6dnMIJG0xKygXwF3,Thats What They All Say,66,https://p.scdn.co/mp3-preview/5362b7871570a2a4b4af8bead9049dd14808875e?cid=6a78982078cb477d900388b0470ad9ad
+14,Dance Monkey,Tones And I,2020,1,31IDBea3eEs57a0joX6TjN,Dance Monkey,63,https://p.scdn.co/mp3-preview/67a1ddabbcb69ce2b9d968e68d23aaaebd0adc68?cid=6a78982078cb477d900388b0470ad9ad
+15,Savage,Megan Thee Stallion Featuring Beyonce,2020,1,6M4VOF1ExBRii1x20Pk0GR,Savage Remix (feat. Beyoncé),64,https://p.scdn.co/mp3-preview/adf3906bbf048ebb7b9bb0043560a129beb77b36?cid=6a78982078cb477d900388b0470ad9ad
+16,Roxanne,Arizona Zervas,2020,1,6HJDrXs0hpebaRFKA1sF90,ROXANNE,76,https://p.scdn.co/mp3-preview/18dbed71a2ee41dec2edbecd76e2f67250675dc6?cid=6a78982078cb477d900388b0470ad9ad
+17,Intentions,Justin Bieber Featuring Quavo,2020,1,63iWSELt9V1kV6RSMxN7Ii,Changes,76,
+18,Everything I Wanted,Billie Eilish,2020,1,4i3rAwPw7Ln2YrKDusaWyT,everything i wanted,84,
+19,Roses,SAINt JHN,2020,1,3GqSdhWjmMypMwPLtzoFYs,Roses (Imanbek Remix),79,https://p.scdn.co/mp3-preview/577cd73a377297f9b7fa57d809cd270dfce8513f?cid=6a78982078cb477d900388b0470ad9ad
+20,Watermelon Sugar,Harry Styles,2020,1,4vljiSAPCLIfX03BwIgRhk,Watermelon Sugar (Acoustic),52,https://p.scdn.co/mp3-preview/cf63d7dac8952452d29036b9fe44825cfda8c1b8?cid=6a78982078cb477d900388b0470ad9ad
+21,Before You Go,Lewis Capaldi,2020,1,2wiPF3m0ylst0JSk1IvZL8,Divinely Uninspired To A Hellish Extent (Extended Edition),85,
+22,Falling,Trevor Daniel,2020,1,0D7yJonn41qsrIQ7YdWk2z,Nicotine,77,https://p.scdn.co/mp3-preview/0d911f7650ed127fbbdd7ec6a44ec5d642d1896a?cid=6a78982078cb477d900388b0470ad9ad
+23,"10,000 Hours",Dan + Shay & Justin Bieber,2020,1,7L8IHgiomfEpxOm61vgPTm,Good Things,72,https://p.scdn.co/mp3-preview/0ca349b64ab033e00df659986c9be7b0cb151fc2?cid=6a78982078cb477d900388b0470ad9ad
+24,WAP,Cardi B Featuring Megan Thee Stallion,2020,1,2ogiazbrNEx0kQHGl5ZBTQ,WAP (feat. Megan Thee Stallion),78,https://p.scdn.co/mp3-preview/ad79b922940884cd57a17df2dede2c5d106d907c?cid=6a78982078cb477d900388b0470ad9ad
+25,Ballin',Mustard & Roddy Ricch,2020,1,2WrNHOba5u6P9S9xEboaUy,Perfect Ten,76,
+26,Hot Girl Bummer,blackbear,2020,1,4UxlLk460BnmQlRV3WiORh,everything means nothing,78,https://p.scdn.co/mp3-preview/22c354ac8d2a9354509ecb517a26fc34069600c4?cid=6a78982078cb477d900388b0470ad9ad
+27,Blueberry Faygo,Lil Mosey,2020,1,6rBennOYWR1OZQnsU39PKL,Blueberry Faygo,74,
+28,Heartless,The Weeknd,2020,1,4yP0hdKOZPNshxUOjY0cZj,After Hours,82,
+29,BOP,DaBaby,2020,1,1NsTSXjVNE7XmZ8PmyW0wl,KIRK,76,
+30,Lose You To Love Me,Selena Gomez,2020,1,3YPFaTR7WMi1Hd4NVKdCJx,Rare,80,
+31,Good As Hell,Lizzo,2020,1,7hBV0wo7cDHZQLYnuOJ312,Cuz I Love You (Super Deluxe),71,https://p.scdn.co/mp3-preview/eff7853a768016bf8dbfbd33436a43393fef2d0d?cid=6a78982078cb477d900388b0470ad9ad
+32,Toosie Slide,Drake,2020,1,6OQ9gBfg5EXeNAEwGSs6jK,Dark Lane Demo Tapes,69,
+33,Break My Heart,Dua Lipa,2020,1,7fJJK56U9fHixgO0HQkhtI,Future Nostalgia,76,https://p.scdn.co/mp3-preview/a0078bbdb4351ec221eb7f330bd01856636601b5?cid=6a78982078cb477d900388b0470ad9ad
+34,Chasin' You,Morgan Wallen,2020,1,1IR2nlwX6YVTXXeu2qzoWO,If I Know Me,81,https://p.scdn.co/mp3-preview/0f91ed4fde6bba8680c193da321bf882e09115d9?cid=6a78982078cb477d900388b0470ad9ad
+35,Savage Love (Laxed - Siren Beat),Jawsh 685 x Jason Derulo,2020,1,1XMw3pBrYeXzNXZXc84DNw,Savage Love (Laxed - Siren Beat),74,https://p.scdn.co/mp3-preview/70e9427cbf64fb1d8520366219ec79ff41d5b0a1?cid=6a78982078cb477d900388b0470ad9ad
+36,No Guidance,Chris Brown Featuring Drake,2020,1,1BfLzaTFI5qKsAAk0Ae6aV,Indigo,78,https://p.scdn.co/mp3-preview/1b5fe75b6bfa48ebacdfe0ee11e8c548ee96e2f3?cid=6a78982078cb477d900388b0470ad9ad
+37,My Oh My,Camila Cabello Featuring DaBaby,2020,1,3Vsbl0diFGw8HNSjG8ue9m,Romance,76,https://p.scdn.co/mp3-preview/ea3ba7014fbff5a201d98ddab8d94e13fe56bb16?cid=6a78982078cb477d900388b0470ad9ad
+38,Dynamite,BTS,2020,1,6nYfHQnvkvOTNHnOhDT3sr,BE,81,https://p.scdn.co/mp3-preview/98e266fea9df84fa3e5ca84934c513211e89489b?cid=6a78982078cb477d900388b0470ad9ad
+39,Go Crazy,Chris Brown & Young Thug,2020,1,7fZKtzZAsfH0kzeTivu5TG,Slime & B,75,https://p.scdn.co/mp3-preview/5953ca484a09698a5e34c5ac585e3ecddbae8b37?cid=6a78982078cb477d900388b0470ad9ad
+40,High Fashion,Roddy Ricch Featuring Mustard,2020,1,52u4anZbHd6UInnmHRFzba,Please Excuse Me for Being Antisocial,70,https://p.scdn.co/mp3-preview/c317b833c4e4bcba5f0cbbdb2b9dde943eced166?cid=6a78982078cb477d900388b0470ad9ad
+41,Laugh Now Cry Later,Drake Featuring Lil Durk,2020,1,5kTMOuwOinoSq1s9LjalgO,Laugh Now Cry Later (Originally Performed by Drake and Lil Durg) [Karaoke],25,https://p.scdn.co/mp3-preview/053a71d67e9c79037a7c849eccc2718d69e9a531?cid=6a78982078cb477d900388b0470ad9ad
+42,Woah,Lil Baby,2020,1,1ynyQdPQiXdYJNQEDL1S3d,My Turn,67,
+43,Death Bed,Powfu Featuring beabadoobee,2020,1,2p9gK2BcdrloHNJwarc9gc,death bed (coffee for your head),82,https://p.scdn.co/mp3-preview/e88548073883ae36ba42ee5f1d1096568e417737?cid=6a78982078cb477d900388b0470ad9ad
+44,Senorita,Shawn Mendes & Camila Cabello,2020,1,0xzScN8P3hQAz3BT3YYX5w,Shawn Mendes (Deluxe),81,
+45,HIGHEST IN THE ROOM,Travis Scott,2020,1,1Sf8GsXG32t0jNrX11xqWx,JACKBOYS,64,https://p.scdn.co/mp3-preview/2d4113dd008f19cd24e08c2e34ee9be93d90375e?cid=6a78982078cb477d900388b0470ad9ad
+46,Bad Guy,Billie Eilish,2020,1,6lMlX68jJrx67hiCqdiDvW,bad guy (with Justin Bieber),66,
+47,Mood,24kGoldn Featuring iann dior,2020,1,270o30h7cAlEhBnbuSpFZq,El Dorado,83,https://p.scdn.co/mp3-preview/c425299d5996843fc24308b896f7ce60fd262c99?cid=6a78982078cb477d900388b0470ad9ad
+48,Rain On Me,Lady Gaga & Ariana Grande,2020,1,05c49JgPmL4Uz2ZeqRx5SP,Chromatica,75,
+49,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,2020,1,7e7t0MCrNDcJZsPwUKjmOc,Shoot For The Stars Aim For The Moon,78,
+50,RITMO (Bad Boys For Life),Black Eyed Peas X J Balvin,2020,1,5RG0OAI0o27ayhKCkRamRn,Party Tyme 144 (Vocal Versions Español),1,
+51,Heart On Ice,Rod Wave,2020,1,7m3LlqH5j3aGBaJ6M6anIm,PTSD,71,https://p.scdn.co/mp3-preview/cd3b9077d6ca17ab1008ebd8984c494cd74d39ff?cid=6a78982078cb477d900388b0470ad9ad
+52,Nobody But You,Blake Shelton Duet With Gwen Stefani,2020,1,4Kd33JPxTOcjTM29FrKoyT,Fully Loaded: God's Country,66,https://p.scdn.co/mp3-preview/bf2ca624b1c636192a0135cbb641d795e357b6e7?cid=6a78982078cb477d900388b0470ad9ad
+53,Trampoline,SHAED,2020,1,5wg6T8bCVnRk3ToKy0yXG5,Melt (Deluxe),69,
+54,Come & Go,Juice WRLD x Marshmello,2020,1,3rt9CHTA1UdpNZRqEtlPbl,Legends Never Die,49,
+55,Truth Hurts,Lizzo,2020,1,2KJjOBX280F3hZZE1xO33O,Cuz I Love You (Super Deluxe),73,https://p.scdn.co/mp3-preview/3881b5ad53b2b6f1600bbc3b23a86ae256077ace?cid=6a78982078cb477d900388b0470ad9ad
+56,If The World Was Ending,JP Saxe Featuring Julia Michaels,2020,1,538BxdI7oOQykSkEtyjhUD,Dangerous Levels of Introspection,75,https://p.scdn.co/mp3-preview/1cfdb522ce1ea9d3cb25cd0c40cafb8902033d38?cid=6a78982078cb477d900388b0470ad9ad
+57,We Paid,Lil Baby & 42 Dugg,2020,1,6uhEg4ASZYLIilZFCBFy1r,My Turn (Deluxe),75,
+58,Yummy,Justin Bieber,2020,1,1SN6N3fNkZk5oXQ9X46QZ3,Yummy,66,
+59,One Man Band,Old Dominion,2020,1,0eu2mZjF6JQTuLCu9ils6m,Old Dominion,80,https://p.scdn.co/mp3-preview/7d5b158533aa7c22bd35730ec037856fd2e426c0?cid=6a78982078cb477d900388b0470ad9ad
+60,Got What I Got,Jason Aldean,2020,1,2f0DzdU6QbWtZqSlN7s1s5,9,66,https://p.scdn.co/mp3-preview/96f8a77e6b2a2445c7e1afce5984b4fb132ec1dd?cid=6a78982078cb477d900388b0470ad9ad
+61,Sunday Best,Surfaces,2020,1,5nX3zwIAgHttSudEHLTsAW,Where the Light Is,77,https://p.scdn.co/mp3-preview/0062178836f645d0c1ab0a84447cddd1022aec15?cid=6a78982078cb477d900388b0470ad9ad
+62,Godzilla,Eminem Featuring Juice WRLD,2020,1,4otkd9As6YaxxEkIjXPiZ6,Music To Be Murdered By,85,
+63,Bandit,Juice WRLD & YoungBoy Never Broke Again,2020,1,1btu0SV2DOI5HoFsvUd78F,Death Race For Love (Bonus Track Version),74,
+64,Party Girl,StaySolidRocky,2020,1,6OrpY5LSOnkC8xbI5qOTvw,Fallin',75,https://p.scdn.co/mp3-preview/4504bbf1b076b997823b29b7366da149df29cac6?cid=6a78982078cb477d900388b0470ad9ad
+65,Die From A Broken Heart,Maddie & Tae,2020,1,1HixYJpe6AJWGDpEbb7ZuE,The Way It Feels,70,
+66,Popstar,DJ Khaled Featuring Drake,2020,1,5kE2OAuUYGBqqzscqgBXXf,KHALED KHALED,65,https://p.scdn.co/mp3-preview/9d2db23d552f926847bac6a0c1ab37bea908acc4?cid=6a78982078cb477d900388b0470ad9ad
+67,All I Want For Christmas Is You,Mariah Carey,2020,1,61ulfFSmmxMhc2wCdmdMkN,Merry Christmas,70,https://p.scdn.co/mp3-preview/6b1557cd25d543940a3decd85a7bf2bc136c51f8?cid=6a78982078cb477d900388b0470ad9ad
+68,One Of Them Girls,Lee Brice,2020,1,3GyH4lUfzEkbxlaW5xTYYL,Lee Brice,63,https://p.scdn.co/mp3-preview/1f59206c5700e728493ed14d60d11db5683325b8?cid=6a78982078cb477d900388b0470ad9ad
+69,Hard To Forget,Sam Hunt,2020,1,1xRcR4iSouBrfVhuqFkPAJ,SOUTHSIDE,64,
+70,One Margarita,Luke Bryan,2020,1,0wnaUYW25dVLAzk41fp1Ez,Born Here Live Here Die Here,68,
+71,Panini,Lil Nas X,2020,1,71BrrQxz8mZAneNSDE9Lov,Panini,69,https://p.scdn.co/mp3-preview/e9bf27ec0415fedffcfd48953b80352709664140?cid=6a78982078cb477d900388b0470ad9ad
+72,Hot,Young Thug Featuring Gunna,2020,1,1bnHPO4dKK7IjvgrtVBcQh,So Much Fun,69,https://p.scdn.co/mp3-preview/950d342474c987475e98ef86a51ed95c0181e480?cid=6a78982078cb477d900388b0470ad9ad
+73,I Hope You're Happy Now,Carly Pearce & Lee Brice,2020,1,44gX26I9jSjyy1KXAgquPc,Carly Pearce,69,
+74,Emotionally Scarred,Lil Baby,2020,1,1ynyQdPQiXdYJNQEDL1S3d,My Turn,70,
+75,Suicidal,YNW Melly & Juice WRLD,2020,1,4WE4KsdoZbISWStEzfcxvH,Suicidal (Remix) [feat. Juice WRLD],73,https://p.scdn.co/mp3-preview/049ce33702cfee3908e3626e9b8a7422d6cfefe3?cid=6a78982078cb477d900388b0470ad9ad
+76,The Bigger Picture,Lil Baby,2020,1,6ZTl8hHvYNuEg4Mk8yxz75,The Bigger Picture,63,
+77,Only Human,Jonas Brothers,2020,1,1Uf67JAtkVWfdydzFFqNF2,Happiness Begins,71,
+78,The Woo,Pop Smoke Featuring 50 Cent & Roddy Ricch,2020,1,7e7t0MCrNDcJZsPwUKjmOc,Shoot For The Stars Aim For The Moon,72,
+79,Sum 2 Prove,Lil Baby,2020,1,1ynyQdPQiXdYJNQEDL1S3d,My Turn,74,
+80,Stuck With U,Ariana Grande & Justin Bieber,2020,1,5mUdh6YWnUvf0MfklEk1oi,Stuck with U,80,
+81,Mood Swings,Pop Smoke Featuring Lil Tjay,2020,1,0Puv2Bu8uDHyVTOYBWNUE3,Mood Swings (Remix),48,
+82,You Should Be Sad,Halsey,2020,1,68enXe5XcJdciSDAZr0Alr,Manic,72,
+83,Dior,Pop Smoke,2020,1,6d1vGZsr6Uy3h9IigBpPAf,Meet The Woo,80,
+84,Supalonely,BENEE Featuring Gus Dapperton,2020,1,3ZJSoxsPMkNC9eb6gUn0Q8,STELLA & STEVE,69,
+85,Even Though I'm Leaving,Luke Combs,2020,1,0S9D5NIDp2YXhYwlvuJzqx,What You See Is What You Get,71,https://p.scdn.co/mp3-preview/5dc213a8764007bc3cacf5a7a3512bb2f60d5bc6?cid=6a78982078cb477d900388b0470ad9ad
+86,The Scotts,"THE SCOTTS, Travis Scott & Kid Cudi",2020,1,7q6zjWaLw8bN5nYiBWjrus,THE SCOTTS,75,https://p.scdn.co/mp3-preview/820f8579b290d5454ca9f32fde6e06358d8a3950?cid=6a78982078cb477d900388b0470ad9ad
+87,Juicy,Doja Cat & Tyga,2020,1,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,70,https://p.scdn.co/mp3-preview/74aa9af9e83dc7afdcd3bb986c446c15e05095ac?cid=6a78982078cb477d900388b0470ad9ad
+88,Be Like That,Kane Brown With Swae Lee & Khalid,2020,1,7MKfE4IRGdrH5bMkqaZ2Tp,Be Like That (feat. Swae Lee & Khalid),70,https://p.scdn.co/mp3-preview/20679a7cde8904f459d1a5b668b9f95390a3151e?cid=6a78982078cb477d900388b0470ad9ad
+89,Homesick,Kane Brown,2020,1,4yf4bD1iM96hBH6aIc6SaF,Experiment Extended,64,https://p.scdn.co/mp3-preview/71362d80fb2998c46b6bef444e28df6ea58676e0?cid=6a78982078cb477d900388b0470ad9ad
+90,Rags2Riches,Rod Wave Featuring ATR Son Son,2020,1,7a5cMcFWSeppy4Soc0QHcY,Pray 4 Love,56,https://p.scdn.co/mp3-preview/cf826a1f57750d16a4759a06d2a9b01a35f4e0ea?cid=6a78982078cb477d900388b0470ad9ad
+91,Bluebird,Miranda Lambert,2020,1,5Or2XM0Gjy6Y8qlaERqsSn,Wildcard,67,https://p.scdn.co/mp3-preview/9cf24b065862c1f6cb1ecbaf76a4e1486f38b031?cid=6a78982078cb477d900388b0470ad9ad
+92,Wishing Well,Juice WRLD,2020,1,6n9DKpOxwifT5hOXtgLZSL,Legends Never Die,79,
+93,Does To Me,Luke Combs Featuring Eric Church,2020,1,0S9D5NIDp2YXhYwlvuJzqx,What You See Is What You Get,69,https://p.scdn.co/mp3-preview/c15b666f0697f65cc7aa912cf862156ab795bfa6?cid=6a78982078cb477d900388b0470ad9ad
+94,P*$$y Fairy (OTW),Jhene Aiko,2020,1,0NC1AcoK5y2cBLwzej6tqE,P*$$Y Fairy (OTW),69,
+95,ily,Surf Mesa Featuring Emilee,2020,1,3iW6t3t4c18qRC8NjvHenG,this is how i learn to say no,60,
+96,More Than My Hometown,Morgan Wallen,2020,1,6JlCkqkqobGirPsaleJpFr,Dangerous: The Double Album,80,
+97,Lovin' On You,Luke Combs,2020,1,6VCO0fDBGbRW8mCEvV95af,Lovin On Me,93,https://p.scdn.co/mp3-preview/eeeb6151d0049367b3ad3db0389e9e3b116c0774?cid=6a78982078cb477d900388b0470ad9ad
+98,Said Sum,Moneybagg Yo,2020,1,4faPRidDvKRvHnWdvmvVHv,Code Red,67,
+99,Slide,H.E.R. Featuring YG,2020,1,4IwODpNZKFYkHWXSeWMGmP,Back of My Mind,58,https://p.scdn.co/mp3-preview/237ccb7ece5a35030008e4146a256ac5af034e0b?cid=6a78982078cb477d900388b0470ad9ad
+100,Walk Em Down,NLE Choppa Featuring Roddy Ricch,2020,1,4dsMe3EBC8xURaxMhyorgf,Top Shotta,73,https://p.scdn.co/mp3-preview/b01bc02c42e27c4887a7d4547851c9b872413cc6?cid=6a78982078cb477d900388b0470ad9ad
+1,Levitating,Dua Lipa,2021,1,5lKlFlReHOLShQKyRv6AL9,Future Nostalgia,81,https://p.scdn.co/mp3-preview/6af6db91dba9103cca41d6d5225f6fe120fcfcd3?cid=6a78982078cb477d900388b0470ad9ad
+2,Save Your Tears,The Weeknd & Ariana Grande,2021,1,2fyOpT5c9kxR8zbDh6UtXh,Save Your Tears (Remix),80,
+3,Blinding Lights,The Weeknd,2021,1,2ektqBOgstESA5KX3CxdYU,Blinding Lights (Piano Version),57,https://p.scdn.co/mp3-preview/f01c1edc268d62bbbed8a5c3cb99f31cf0f4081d?cid=6a78982078cb477d900388b0470ad9ad
+4,Mood,24kGoldn Featuring iann dior,2021,1,270o30h7cAlEhBnbuSpFZq,El Dorado,83,https://p.scdn.co/mp3-preview/c425299d5996843fc24308b896f7ce60fd262c99?cid=6a78982078cb477d900388b0470ad9ad
+5,Good 4 U,Olivia Rodrigo,2021,1,4oGMRFfXsFU5b4oEBOXi5C,goodnight 4 u: Lullaby renditions of Olivia Rodrigo songs,29,https://p.scdn.co/mp3-preview/30473350d55ecb5c921aaa87eed7e4b1ae956509?cid=6a78982078cb477d900388b0470ad9ad
+6,Kiss Me More,Doja Cat Featuring SZA,2021,1,1OnzqJTL9bwe4kvaLxRYxt,Kiss Me More (feat. SZA),77,https://p.scdn.co/mp3-preview/e3ea7622ca746e1e96c3dac7d7e07b7ccfdeb3f1?cid=6a78982078cb477d900388b0470ad9ad
+7,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),2021,1,1YgekJJTEueWDaMr7BYqPk,An Evening With Silk Sonic,81,https://p.scdn.co/mp3-preview/2f06384101ad1a5aa6b02f6fc24b59789c2ab54d?cid=6a78982078cb477d900388b0470ad9ad
+8,Drivers License,Olivia Rodrigo,2021,1,4oGMRFfXsFU5b4oEBOXi5C,goodnight 4 u: Lullaby renditions of Olivia Rodrigo songs,26,https://p.scdn.co/mp3-preview/942cd0f697e6bb497a49c3c9943bf0246dbb5e5b?cid=6a78982078cb477d900388b0470ad9ad
+9,Montero (Call Me By Your Name),Lil Nas X,2021,1,5kPmG2T2fmFdzMN3u8AuLS,Piano Dreamers Cover Lil Nas X (Instrumental),5,https://p.scdn.co/mp3-preview/d3fa88c310e4f34e9a4328a85931285b6d334b10?cid=6a78982078cb477d900388b0470ad9ad
+10,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,2021,1,5dGWwsZ9iB2Xc3UKR0gif2,Justice,81,
+11,Butter,BTS,2021,1,0PBQ3Cp6NG8WX0G9KQVNMP,"Butter (Hotter, Sweeter, Cooler)",70,https://p.scdn.co/mp3-preview/4d63fe1638aa41592706f835bd076443b09d8afa?cid=6a78982078cb477d900388b0470ad9ad
+12,Stay,The Kid LAROI & Justin Bieber,2021,1,576UTio7xgY7YUxrHMzxeI,F*CK LOVE 3+: OVER YOU,82,https://p.scdn.co/mp3-preview/718a2eb032524494a01f73d80af2bcf176c9f3e2?cid=6a78982078cb477d900388b0470ad9ad
+13,Deja Vu,Olivia Rodrigo,2021,1,0m9lW0nm0dgJnAZIs2f3eO,Super Hits 38 - Party Tyme (Backing Versions),1,
+14,Positions,Ariana Grande,2021,1,3euz4vS7ezKGnNSwgyvKcd,Positions,82,
+15,Bad Habits,Ed Sheeran,2021,1,32iAEBstCjauDhyKpGjTuq,=,82,https://p.scdn.co/mp3-preview/22f3a86c8a83e364db595007f9ac1d666596a335?cid=6a78982078cb477d900388b0470ad9ad
+16,Heat Waves,Glass Animals,2021,1,5bfpRtBW7RNRdsm3tRyl3R,Dreamland,89,
+17,Without You,The Kid LAROI,2021,1,576UTio7xgY7YUxrHMzxeI,F*CK LOVE 3+: OVER YOU,77,https://p.scdn.co/mp3-preview/0cacbf2acaef9fc50d9ecd1f29eb33e543a5bc63?cid=6a78982078cb477d900388b0470ad9ad
+18,Forever After All,Luke Combs,2021,1,25TJxI6ZH6XjT8geRQAFz5,What You See Ain't Always What You Get (Deluxe Edition),77,https://p.scdn.co/mp3-preview/27a6f63eadab286b8a819ad2e06c9c5dfcf7828f?cid=6a78982078cb477d900388b0470ad9ad
+19,Go Crazy,Chris Brown & Young Thug,2021,1,7fZKtzZAsfH0kzeTivu5TG,Slime & B,75,https://p.scdn.co/mp3-preview/5953ca484a09698a5e34c5ac585e3ecddbae8b37?cid=6a78982078cb477d900388b0470ad9ad
+20,Astronaut In The Ocean,Masked Wolf,2021,1,3I0dDlx3EuEi6XPl1ndSwA,Astronomical,57,https://p.scdn.co/mp3-preview/e89e477c2467c477031561ff801c055c5777de4f?cid=6a78982078cb477d900388b0470ad9ad
+21,34+35,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,2021,1,74vajFwEwXJ61OW1DKSPEa,Positions (Deluxe),66,
+22,What You Know Bout Love,Pop Smoke,2021,1,7e7t0MCrNDcJZsPwUKjmOc,Shoot For The Stars Aim For The Moon,80,
+23,My Ex's Best Friend,Machine Gun Kelly X blackbear,2021,1,57lgFncHBYu5E3igZnuCJK,Tickets To My Downfall,75,
+24,Industry Baby,Lil Nas X & Jack Harlow,2021,1,622NFw5Yk0OReMJ2XWcXUh,INDUSTRY BABY (feat. Jack Harlow),78,https://p.scdn.co/mp3-preview/e692ccfcdfe7010a8c1ed61de7937c7686ed072d?cid=6a78982078cb477d900388b0470ad9ad
+25,Therefore I Am,Billie Eilish,2021,1,0JGOiO34nwfUdDrD612dOp,Happier Than Ever,73,
+26,Up,Cardi B,2021,1,5BNrcvfbLyADks4RXPW7VP,Up,68,https://p.scdn.co/mp3-preview/41d08e5fd8023fe214995ee866aa1eff12e29578?cid=6a78982078cb477d900388b0470ad9ad
+27,Fancy Like,Walker Hayes,2021,1,4sShdTo9jO2RGLgDkZBgN8,Country Stuff The Album,74,https://p.scdn.co/mp3-preview/c69e547d9f87c936d8f1cbaca921e0593db43572?cid=6a78982078cb477d900388b0470ad9ad
+28,Dakiti,Bad Bunny & Jhay Cortez,2021,1,5RE3u3esh5NWmKGP1sKKwf,DÁKITI,50,https://p.scdn.co/mp3-preview/b79c3b550c5f7b7b963b2950c1a2a68272d049ea?cid=6a78982078cb477d900388b0470ad9ad
+29,Best Friend,Saweetie Featuring Doja Cat,2021,1,0DqDdZGSQkWQiE0TzBqeLA,Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition],70,https://p.scdn.co/mp3-preview/a4373d337eb0f19cbf2424c0f20fb87ac862d0c8?cid=6a78982078cb477d900388b0470ad9ad
+30,Rapstar,Polo G,2021,1,7KSf6p0G0mZd7j60etVTwT,Hall of Fame,80,https://p.scdn.co/mp3-preview/6920a1b1e7a88385654fdb76c83b054609d16172?cid=6a78982078cb477d900388b0470ad9ad
+31,Heartbreak Anniversary,Giveon,2021,1,1zHR48K6XtWYm6bhrw4J6C,TAKE TIME,82,https://p.scdn.co/mp3-preview/12200deba2a2f8126ff4430d35fec1be2969e87f?cid=6a78982078cb477d900388b0470ad9ad
+32,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,2021,1,7e7t0MCrNDcJZsPwUKjmOc,Shoot For The Stars Aim For The Moon,78,
+33,Calling My Phone,Lil Tjay Featuring 6LACK,2021,1,3MEKpJ7wSSp6Z661ThjrUJ,Destined 2 Win,79,https://p.scdn.co/mp3-preview/687f6e37a7d7ae26e7a7a7bd252945da7d1bb894?cid=6a78982078cb477d900388b0470ad9ad
+34,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,2021,1,1pCA38N6MkLlthXtAOvZTU,JORDI (Deluxe),78,
+35,Holy,Justin Bieber Featuring Chance The Rapper,2021,1,4hR7jjsPvRwwcHx8ntJSQS,Holy,70,
+36,On Me,Lil Baby,2021,1,25gJpQKgXxT5CrMitr0DQO,On Me,75,
+37,You Broke Me First.,Tate McRae,2021,1,1BaHo66NCQNx6ku0hPn9bR,TOO YOUNG TO BE SAD,87,https://p.scdn.co/mp3-preview/58f29d1e29100ef77247a4bf0fa22b2cc3528c3f?cid=6a78982078cb477d900388b0470ad9ad
+38,Traitor,Olivia Rodrigo,2021,1,3PAK2iiMMhTw4rTJV7cg3e,Piano Dreamers Cover Olivia Rodrigo (Instrumental),17,https://p.scdn.co/mp3-preview/dae613374164919b37f60042b800c221b23717d3?cid=6a78982078cb477d900388b0470ad9ad
+39,Back In Blood,Pooh Shiesty Featuring Lil Durk,2021,1,2UwJ4Nt10VStLczYefhcEV,Shiesty Season,71,https://p.scdn.co/mp3-preview/8350279e780402393f669704e85f60dd517bc60c?cid=6a78982078cb477d900388b0470ad9ad
+40,I Hope,Gabby Barrett Featuring Charlie Puth,2021,1,4Iqfx63CZhFGGIHiAvLxXY,Goldmine,61,https://p.scdn.co/mp3-preview/bfa518d2e1ff6bc87a8af8454fe799582cd09482?cid=6a78982078cb477d900388b0470ad9ad
+41,Dynamite,BTS,2021,1,6nYfHQnvkvOTNHnOhDT3sr,BE,81,https://p.scdn.co/mp3-preview/98e266fea9df84fa3e5ca84934c513211e89489b?cid=6a78982078cb477d900388b0470ad9ad
+42,Wockesha,Moneybagg Yo,2021,1,5ffogo3K3fYibGWa93IzUe,A Gangsta’s Pain,65,
+43,You Right,Doja Cat & The Weeknd,2021,1,1nAQbHeOWTfQzbOoFrvndW,Planet Her,79,https://p.scdn.co/mp3-preview/6f9e50e5f716c7e2441d4e0262304656c5b108fa?cid=6a78982078cb477d900388b0470ad9ad
+44,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,2021,1,6PZymRFp89JEYsgQyD5NNl,Final Destination,54,https://p.scdn.co/mp3-preview/4178b0f886c9c7d3f88c35b1e16cbf011c0d8603?cid=6a78982078cb477d900388b0470ad9ad
+45,Laugh Now Cry Later,Drake Featuring Lil Durk,2021,1,5kTMOuwOinoSq1s9LjalgO,Laugh Now Cry Later (Originally Performed by Drake and Lil Durg) [Karaoke],25,https://p.scdn.co/mp3-preview/053a71d67e9c79037a7c849eccc2718d69e9a531?cid=6a78982078cb477d900388b0470ad9ad
+46,Need To Know,Doja Cat,2021,1,7N3SiwnBMR1C8hcA4W1GtH,Need to Know,58,https://p.scdn.co/mp3-preview/153dc4a72a260497f8ea87a00e2af7afb0a0df08?cid=6a78982078cb477d900388b0470ad9ad
+47,Wants And Needs,Drake Featuring Lil Baby,2021,1,6RxuBWYLCMtRHl7IpoVuhY,Scary Hours 2,55,
+48,Way 2 Sexy,Drake Featuring Future & Young Thug,2021,1,3SpBlxme9WbeQdI9kx7KAV,Certified Lover Boy,75,
+49,Telepatia,Kali Uchis,2021,1,00wSTrFxoSzA7eeS1UxHgd,Sin Miedo (del Amor y Otros Demonios) ∞,84,
+50,Whoopty,CJ,2021,1,0kHRftVXaiRHgQdtviml0G,Loyalty Over Royalty,69,https://p.scdn.co/mp3-preview/bf6fd3cbe55af994e5cb911d93e2df39908aa3bc?cid=6a78982078cb477d900388b0470ad9ad
+51,Lemonade,Internet Money & Gunna Featuring Don Toliver & NAV,2021,1,0EjFvGf53LeeYU1txivvZP,B4 The Storm,49,https://p.scdn.co/mp3-preview/bcfec43d5bf1354cb4b14089a89adc7285815548?cid=6a78982078cb477d900388b0470ad9ad
+52,Good Days,SZA,2021,1,781cKhbTPwLnPmo9BALQl7,Good Days,81,https://p.scdn.co/mp3-preview/ddda59aa9a028820fc0fb6ff05ae463924843191?cid=6a78982078cb477d900388b0470ad9ad
+53,Starting Over,Chris Stapleton,2021,1,0sOeI7pbAmIc8aDFyvkBUW,Starting Over,78,
+54,Body,Megan Thee Stallion,2021,1,0KjckH1EE6HRRurMIXSc0r,Good News,70,https://p.scdn.co/mp3-preview/ed79f0e76d66e1af410009f7bb7e6872a9d3bf45?cid=6a78982078cb477d900388b0470ad9ad
+55,Willow,Taylor Swift,2021,1,2Xoteh7uEpea4TohMxjtaq,evermore,81,
+56,Bang!,AJR,2021,1,0cev5DkOdS8wk0aRoac6Fh,OK ORCHESTRA,54,https://p.scdn.co/mp3-preview/37c8545d3a233a01180123ee3ecf6c6188eaa62b?cid=6a78982078cb477d900388b0470ad9ad
+57,Better Together,Luke Combs,2021,1,0S9D5NIDp2YXhYwlvuJzqx,What You See Is What You Get,78,https://p.scdn.co/mp3-preview/dc03e6ce3863164c798191cda6d35161cdba5c15?cid=6a78982078cb477d900388b0470ad9ad
+58,You're Mines Still,Yung Bleu Featuring Drake,2021,1,2VUhkRrg5dEJIGewOBOc7J,Moon Boy,70,https://p.scdn.co/mp3-preview/21f5c33d2661f639e16d8737c905aa23804e4cbf?cid=6a78982078cb477d900388b0470ad9ad
+59,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,2021,1,5kE2OAuUYGBqqzscqgBXXf,KHALED KHALED,76,https://p.scdn.co/mp3-preview/1751fb43e83267f15296a0f19705e1b419f2de82?cid=6a78982078cb477d900388b0470ad9ad
+60,Essence,Wizkid Featuring Justin Bieber & Tems,2021,1,0Rn8NAh8NnoaCOt8r8Tc3e,Essence (feat. Justin Bieber & Tems),64,https://p.scdn.co/mp3-preview/7a1eaedacbc1018448d72e36ae97b7a1d7789dc0?cid=6a78982078cb477d900388b0470ad9ad
+61,Chasing After You,Ryan Hurd With Maren Morris,2021,1,5QUwCi1lbk0kZ5k87fRNbK,Chasing After You (with Maren Morris),63,https://p.scdn.co/mp3-preview/bd02f15607572ead9e9cbb40c150f26496701158?cid=6a78982078cb477d900388b0470ad9ad
+62,The Good Ones,Gabby Barrett,2021,1,4Iqfx63CZhFGGIHiAvLxXY,Goldmine,72,https://p.scdn.co/mp3-preview/eba6abfb276d62b13089eb1a78a8fbe6e80bef4e?cid=6a78982078cb477d900388b0470ad9ad
+63,Leave Before You Love Me,Marshmello X Jonas Brothers,2021,1,66JuK41D3LpkbX3HCTGcQk,Leave Before You Love Me,83,
+64,Glad You Exist,Dan + Shay,2021,1,7L8IHgiomfEpxOm61vgPTm,Good Things,62,https://p.scdn.co/mp3-preview/ff1f308c7bfb9ee10b709e82c2fea2a4498b4a1d?cid=6a78982078cb477d900388b0470ad9ad
+65,Lonely,Justin Bieber & benny blanco,2021,1,5dGWwsZ9iB2Xc3UKR0gif2,Justice,73,
+66,Beggin',Maneskin,2021,1,2qJw6w5XwQO0PQlSWPu7Tw,Chosen,85,https://p.scdn.co/mp3-preview/39cd7cd4317a9e4c4fa1277a51eeadb2e300c7de?cid=6a78982078cb477d900388b0470ad9ad
+67,Streets,Doja Cat,2021,1,1MmVkhiwTH0BkNOU3nw5d3,Hot Pink,84,https://p.scdn.co/mp3-preview/cfd56a96b447ee2982d1d6acefaea64992a9f44c?cid=6a78982078cb477d900388b0470ad9ad
+68,What's Next,Drake,2021,1,5LuoozUhs2pl3glZeAJl89,Scary Hours 2,70,
+69,Famous Friends,Chris Young + Kane Brown,2021,1,4WyhB7bn1Dy3w7GBWUAO1a,Famous Friends,67,https://p.scdn.co/mp3-preview/6a5f5410494abb2e07e0fd316ed0b44dceb51092?cid=6a78982078cb477d900388b0470ad9ad
+70,Lil Bit,Nelly & Florida Georgia Line,2021,1,1a7BlXLCqjTxQh6X8L9JBL,Heartland,67,https://p.scdn.co/mp3-preview/4d34f02cae6e104c22ad4efdab01e1d55094a4fd?cid=6a78982078cb477d900388b0470ad9ad
+71,Thot Shit,Megan Thee Stallion,2021,1,6B26OzQRObxAp1tbf8jeTq,Something for Thee Hotties,67,https://p.scdn.co/mp3-preview/d37389b5f4e97a6e68e9d47c0891c19300b48dfb?cid=6a78982078cb477d900388b0470ad9ad
+72,Late At Night,Roddy Ricch,2021,1,1eVrpJbHRLBbioB9sb5b94,LIVE LIFE FAST,63,https://p.scdn.co/mp3-preview/381c3ea5e37199b5e1f5f841b220f87c0092d5e8?cid=6a78982078cb477d900388b0470ad9ad
+73,Kings & Queens,Ava Max,2021,1,26c7MmQ4w8EAvVLb4jilaM,Heaven & Hell,80,https://p.scdn.co/mp3-preview/dc90347787fa47daa898d4ffbfff36074d184d64?cid=6a78982078cb477d900388b0470ad9ad
+74,Anyone,Justin Bieber,2021,1,51kijm0sjZz0yOa3kVBPUU,Anyone,69,
+75,Track Star,Mooski,2021,1,7yvSdViuYJjZwXWtSwYu3D,Track Star,56,
+76,Time Today,Moneybagg Yo,2021,1,5ffogo3K3fYibGWa93IzUe,A Gangsta’s Pain,73,
+77,Cry Baby,Megan Thee Stallion Featuring DaBaby,2021,1,0KjckH1EE6HRRurMIXSc0r,Good News,66,https://p.scdn.co/mp3-preview/38c18f22cc53fedd7bde5b28c735a06300967d43?cid=6a78982078cb477d900388b0470ad9ad
+78,All I Want For Christmas Is You,Mariah Carey,2021,1,61ulfFSmmxMhc2wCdmdMkN,Merry Christmas,70,https://p.scdn.co/mp3-preview/6b1557cd25d543940a3decd85a7bf2bc136c51f8?cid=6a78982078cb477d900388b0470ad9ad
+79,No More Parties,Coi Leray Featuring Lil Durk,2021,1,4H8JPgTkCXVgVr8e2J5tKX,No More Parties (Remix),50,
+80,What's Your Country Song,Thomas Rhett,2021,1,3W2BTPUHJX51hweWPNRenv,Country Again (Side A),71,
+81,One Too Many,Keith Urban Duet With P!nk,2021,1,5j5ngp5GBH7zW3RhHljRK9,One Too Many,64,
+82,Arcade,Duncan Laurence,2021,1,7BISGeB7QwhqRIadxuLHfG,Arcade,77,
+83,Yonaguni,Bad Bunny,2021,1,6VSOIs13DaSG2IPilNviX5,Yonaguni,79,https://p.scdn.co/mp3-preview/cbade9b0e669565ac8c7c07490f961e4c471b9ee?cid=6a78982078cb477d900388b0470ad9ad
+84,Good Time,Niko Moon,2021,1,5WvmRAsjmB3uPLoFeCioC5,GOOD TIME,67,https://p.scdn.co/mp3-preview/5f76b5a84d88ee7909cef8094a40485d395cc452?cid=6a78982078cb477d900388b0470ad9ad
+85,If I Didn't Love You,Jason Aldean & Carrie Underwood,2021,1,4MJPulC5XmELvmbrs1XHC9,MACON,68,https://p.scdn.co/mp3-preview/36fb7579381fc0123530e15bf794ce7f5d4aafbf?cid=6a78982078cb477d900388b0470ad9ad
+86,Knife Talk,Drake Featuring 21 Savage & Project Pat,2021,1,3SpBlxme9WbeQdI9kx7KAV,Certified Lover Boy,80,
+87,pov,Ariana Grande,2021,1,3euz4vS7ezKGnNSwgyvKcd,Positions,74,
+88,Just The Way,Parmalee x Blanco Brown,2021,1,2HXs3JKy9OgqOzdox7ODO2,Just The Way (Acoustic),21,https://p.scdn.co/mp3-preview/9ee44f0d1b9489baa13cb245565b1d1a0a1ed9ea?cid=6a78982078cb477d900388b0470ad9ad
+89,Take My Breath,The Weeknd,2021,1,2nLOHgzXzwFEpl62zAgCEC,Dawn FM,72,
+90,We're Good,Dua Lipa,2021,1,0JeyP8r2hBxYIoxXv11XiX,Future Nostalgia (The Moonlight Edition),72,https://p.scdn.co/mp3-preview/0ed0e3241d7dd381271156710b7153308ddfbb89?cid=6a78982078cb477d900388b0470ad9ad
+91,Hell Of A View,Eric Church,2021,1,4MRgsu0MBuBHzMhTLBgnNz,Soul,72,
+92,Rockin' Around The Christmas Tree,Brenda Lee,2021,1,34wa3zf2prXFMk47t9zHFG,Merry Christmas From Brenda Lee,64,
+93,Put Your Records On,Ritt Momney,2021,1,141Mp3P2VKHQMhtkW1DyQg,Corinne Bailey Rae,82,
+94,Happier Than Ever,Billie Eilish,2021,1,0JGOiO34nwfUdDrD612dOp,Happier Than Ever,85,
+95,Single Saturday Night,Cole Swindell,2021,1,1wmVEVgetT1F0Qnu0651Ps,Single Saturday Night,58,https://p.scdn.co/mp3-preview/03f4f13636c596e4c53ffe82b2e3bb1f1aca0f62?cid=6a78982078cb477d900388b0470ad9ad
+96,Things A Man Oughta Know,Lainey Wilson,2021,1,2WBvIseHSAwsPP4YbNgZXR,Sayin’ What I’m Thinkin’,73,https://p.scdn.co/mp3-preview/fc9b8a24362da3c57af22546f4b3d9fb0e727a9a?cid=6a78982078cb477d900388b0470ad9ad
+97,Throat Baby (Go Baby),BRS Kash,2021,1,7CaoMilK1vM4KvbbvRVggD,Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix],55,
+98,Tombstone,Rod Wave,2021,1,0i9mOB6mPGqwVvtJEXiwPG,Green River (Expanded Edition),53,
+99,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,2021,1,5GY70ohePKpld3lT4izB2k,The Album (Acoustic),24,https://p.scdn.co/mp3-preview/943dd7b8619078bedc528bff66c987ba04464e89?cid=6a78982078cb477d900388b0470ad9ad
+100,Todo de Ti,Rauw Alejandro,2021,1,7bvgcsOjeslYtb7WGYZy2x,Party Tyme 284 (Spanish Karaoke Versions),0,
+1,Heat Waves,Glass Animals,2022,1,5bfpRtBW7RNRdsm3tRyl3R,Dreamland,89,
+2,As It Was,Harry Styles,2022,1,5r36AJ6VOJtp00oxSkBZ5h,Harry's House,92,https://p.scdn.co/mp3-preview/c43dd07043b29e800c1a65b3a0102861fa3cf418?cid=6a78982078cb477d900388b0470ad9ad
+3,Stay,The Kid LAROI & Justin Bieber,2022,1,576UTio7xgY7YUxrHMzxeI,F*CK LOVE 3+: OVER YOU,82,https://p.scdn.co/mp3-preview/718a2eb032524494a01f73d80af2bcf176c9f3e2?cid=6a78982078cb477d900388b0470ad9ad
+4,Easy On Me,Adele,2022,1,6rjgIM9eElrYZAKBowrPOo,Easy On Me (Piano Version),59,https://p.scdn.co/mp3-preview/1f5b8ebca3faf95e8d5e141dc550bdab8764330a?cid=6a78982078cb477d900388b0470ad9ad
+5,Shivers,Ed Sheeran,2022,1,32iAEBstCjauDhyKpGjTuq,=,85,https://p.scdn.co/mp3-preview/08cec59d36ac30ae9ce1e2944f206251859844af?cid=6a78982078cb477d900388b0470ad9ad
+6,First Class,Jack Harlow,2022,1,2eE8BVirX9VF8Di9hD90iw,Come Home The Kids Miss You,79,https://p.scdn.co/mp3-preview/c05a687254dbdf50a9ab4879d85e54a7594e367f?cid=6a78982078cb477d900388b0470ad9ad
+7,Big Energy,Latto,2022,1,4vjE6Rgl5z6K2PhrAtIA7O,777,66,https://p.scdn.co/mp3-preview/c3cc5176cce31288ed64859f4dc38ee321d68b25?cid=6a78982078cb477d900388b0470ad9ad
+8,Ghost,Justin Bieber,2022,1,5dGWwsZ9iB2Xc3UKR0gif2,Justice,87,
+9,Super Gremlin,Kodak Black,2022,1,0kxA9Bc8pamypR5GYXmeti,Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies,71,https://p.scdn.co/mp3-preview/01f6ee2ac9540d2c3dff7513c6219d8bb04d5002?cid=6a78982078cb477d900388b0470ad9ad
+10,Cold Heart (PNAU Remix),Elton John & Dua Lipa,2022,1,5D8Rdb09BkmHscEGSWAlA6,Cold Heart (PNAU Remix),84,
+11,Wait For U,Future Featuring Drake & Tems,2022,1,6tE9Dnp2zInFij4jKssysL,I NEVER LIKED YOU,82,https://p.scdn.co/mp3-preview/38e12dbcba624463f1a360afd5dcceaf281b1ea5?cid=6a78982078cb477d900388b0470ad9ad
+12,About Damn Time,Lizzo,2022,1,4JApkbiesQxv5drdEZRlZC,About Damn Time,74,https://p.scdn.co/mp3-preview/bbf8a26d38f7d8c7191dd64bd7c21a4cec8b61a0?cid=6a78982078cb477d900388b0470ad9ad
+13,Bad Habits,Ed Sheeran,2022,1,32iAEBstCjauDhyKpGjTuq,=,82,https://p.scdn.co/mp3-preview/22f3a86c8a83e364db595007f9ac1d666596a335?cid=6a78982078cb477d900388b0470ad9ad
+14,Thats What I Want,Lil Nas X,2022,1,6pOiDiuDQqrmo5DbG0ZubR,MONTERO,81,https://p.scdn.co/mp3-preview/f6958f897e3817fcbb6647d62f66c71ee96d1981?cid=6a78982078cb477d900388b0470ad9ad
+15,Enemy,Imagine Dragons X JID,2022,1,6yiXkzHvC0OTmhfDQOEWtS,Mercury - Acts 1 & 2,82,
+16,Industry Baby,Lil Nas X & Jack Harlow,2022,1,622NFw5Yk0OReMJ2XWcXUh,INDUSTRY BABY (feat. Jack Harlow),78,https://p.scdn.co/mp3-preview/e692ccfcdfe7010a8c1ed61de7937c7686ed072d?cid=6a78982078cb477d900388b0470ad9ad
+17,abcdefu,GAYLE,2022,1,6tUQPKlpR4x1gjrXTtOImI,abcdefu,77,https://p.scdn.co/mp3-preview/e13e3bf98cefdca448a1b31ee123a890be0e113c?cid=6a78982078cb477d900388b0470ad9ad
+18,Need To Know,Doja Cat,2022,1,7N3SiwnBMR1C8hcA4W1GtH,Need to Know,58,https://p.scdn.co/mp3-preview/153dc4a72a260497f8ea87a00e2af7afb0a0df08?cid=6a78982078cb477d900388b0470ad9ad
+19,Wasted On You,Morgan Wallen,2022,1,6JlCkqkqobGirPsaleJpFr,Dangerous: The Double Album,85,
+20,Me Porto Bonito,Bad Bunny & Chencho Corleone,2022,1,2uU3fMxL4iSOxFWFpiABPh,Bad Bunny y Chencho Corleone Goes Classical (Un Tributo Sinfónico),6,https://p.scdn.co/mp3-preview/8f2d64d862b3ddc78dfea3b9ed938e6d048152f6?cid=6a78982078cb477d900388b0470ad9ad
+21,Woman,Doja Cat,2022,1,1nAQbHeOWTfQzbOoFrvndW,Planet Her,85,https://p.scdn.co/mp3-preview/2ae0b61e45d9a5d6454a3e5ab75f8628dd89aa85?cid=6a78982078cb477d900388b0470ad9ad
+22,Titi Me Pregunto,Bad Bunny,2022,1,0nUv2ull7WTnKNEpKUD8eM,Titi Me Pregunto (Remix),19,https://p.scdn.co/mp3-preview/7ea0850253089f7142f3ac6f282ab3baa660692a?cid=6a78982078cb477d900388b0470ad9ad
+23,Running Up That Hill (A Deal With God),Kate Bush,2022,1,2yvPZviuTDWES8DDWM25eI,Housify It! Top 40 Hits Made in House,41,https://p.scdn.co/mp3-preview/c5a3a44e0fc956ab218bfe053f118da0f3576b17?cid=6a78982078cb477d900388b0470ad9ad
+24,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",2022,1,25L8ck3KGcmCo3901ztPzR,Encanto (Original Motion Picture Soundtrack),42,
+25,Late Night Talking,Harry Styles,2022,1,0fnmwFahgLzDJj7pvfDNOq,Lullaby Versions of Harry Styles,29,https://p.scdn.co/mp3-preview/ed5c21c9fec668b23f5e6673b158bd811d8b66d8?cid=6a78982078cb477d900388b0470ad9ad
+26,I Like You (A Happier Song),Post Malone Featuring Doja Cat,2022,1,3HHNR44YbP7XogMVwzbodx,Twelve Carat Toothache,82,
+27,You Proof,Morgan Wallen,2022,1,2ORO3nNnFXxsvz9Pcd9RdI,You Proof,75,
+28,Bad Habit,Steve Lacy,2022,1,3Ks0eeH0GWpY4AU20D5HPD,Gemini Rights,80,https://p.scdn.co/mp3-preview/efe7c2fdd8fa727a108a1270b114ebedabfd766c?cid=6a78982078cb477d900388b0470ad9ad
+29,Sunroof,Nicky Youre & dazy,2022,1,1Y7AsjpYThuzMClDdu4FrV,Good Times Go,83,https://p.scdn.co/mp3-preview/605058558fd8d10c420b56c41555e567645d5b60?cid=6a78982078cb477d900388b0470ad9ad
+30,One Right Now,Post Malone & The Weeknd,2022,1,3HHNR44YbP7XogMVwzbodx,Twelve Carat Toothache,70,
+31,Good 4 U,Olivia Rodrigo,2022,1,4oGMRFfXsFU5b4oEBOXi5C,goodnight 4 u: Lullaby renditions of Olivia Rodrigo songs,29,https://p.scdn.co/mp3-preview/30473350d55ecb5c921aaa87eed7e4b1ae956509?cid=6a78982078cb477d900388b0470ad9ad
+32,Numb Little Bug,Em Beihold,2022,1,1iHhuUxL99xxbDjlLwHV8W,Egg in the Backseat,73,
+33,Jimmy Cooks,Drake Featuring 21 Savage,2022,1,3cf4iSSKd8ffTncbtKljXw,"Honestly, Nevermind",86,
+34,'Til You Can't,Cody Johnson,2022,1,3og8X1LYiVq3nPdMxpM9Wb,Human The Double Album,74,https://p.scdn.co/mp3-preview/0f87c1e0b3e7b28cdf8c14cb48c843d2679a56a8?cid=6a78982078cb477d900388b0470ad9ad
+35,Fancy Like,Walker Hayes,2022,1,4sShdTo9jO2RGLgDkZBgN8,Country Stuff The Album,74,https://p.scdn.co/mp3-preview/c69e547d9f87c936d8f1cbaca921e0593db43572?cid=6a78982078cb477d900388b0470ad9ad
+36,The Kind Of Love We Make,Luke Combs,2022,1,77B78XJKo4LcsrRg34GNTu,The Kind of Love We Make,73,https://p.scdn.co/mp3-preview/63730992342ccdf7712058f1cba733230e8328d3?cid=6a78982078cb477d900388b0470ad9ad
+37,I Ain't Worried,OneRepublic,2022,1,04PEOM6kIEeq9lRp1asNP2,"I Ain’t Worried (Music From The Motion Picture ""Top Gun: Maverick"")",90,
+38,Break My Soul,Beyonce,2022,1,6FJxoadUE4JNVwWHghBwnb,RENAISSANCE,74,https://p.scdn.co/mp3-preview/6277963cb556a9d4d90517197112d732a5fc3b05?cid=6a78982078cb477d900388b0470ad9ad
+39,Something In The Orange,Zach Bryan,2022,1,1CmTOKCeyz1aHH04OwvTPv,Something in the Orange,89,https://p.scdn.co/mp3-preview/d33dc9df586e24c9d8f640df08b776d94680f529?cid=6a78982078cb477d900388b0470ad9ad
+40,Save Your Tears,The Weeknd & Ariana Grande,2022,1,2fyOpT5c9kxR8zbDh6UtXh,Save Your Tears (Remix),80,
+41,Smokin Out The Window,Silk Sonic (Bruno Mars & Anderson .Paak),2022,1,1YgekJJTEueWDaMr7BYqPk,An Evening With Silk Sonic,74,https://p.scdn.co/mp3-preview/03985ea0f5b53660c352773875ba5159533fe692?cid=6a78982078cb477d900388b0470ad9ad
+42,Levitating,Dua Lipa,2022,1,5lKlFlReHOLShQKyRv6AL9,Future Nostalgia,81,https://p.scdn.co/mp3-preview/6af6db91dba9103cca41d6d5225f6fe120fcfcd3?cid=6a78982078cb477d900388b0470ad9ad
+43,In A Minute,Lil Baby,2022,1,0FYvMdfTfYJxnJnKs1wDb0,It's Only Me,65,
+44,Moscow Mule,Bad Bunny,2022,1,74ydDCcXTco741y42ceRJ5,"Reise, Reise",61,
+45,You Right,Doja Cat & The Weeknd,2022,1,1nAQbHeOWTfQzbOoFrvndW,Planet Her,79,https://p.scdn.co/mp3-preview/6f9e50e5f716c7e2441d4e0262304656c5b108fa?cid=6a78982078cb477d900388b0470ad9ad
+46,She Had Me At Heads Carolina,Cole Swindell,2022,1,5UgaQfAOaOdfLxFClw8EWa,Stereotype,75,https://p.scdn.co/mp3-preview/a246e0f9a9dbed1b7479e811644e1e413d4c9571?cid=6a78982078cb477d900388b0470ad9ad
+47,Vegas,Doja Cat,2022,1,2Q5DPv9uliinOBSdNooIe3,Vegas (From the Original Motion Picture Soundtrack ELVIS),77,https://p.scdn.co/mp3-preview/da18f3bbe7b385a44febc01a55510d9c83367c54?cid=6a78982078cb477d900388b0470ad9ad
+48,Pushin P,Gunna & Future Featuring Young Thug,2022,1,02uWB8Kekadkl3yGBoOOcx,DS4EVER,73,https://p.scdn.co/mp3-preview/a524108f79c6d0bfb4f61c417f719a851876cf93?cid=6a78982078cb477d900388b0470ad9ad
+49,Buy Dirt,Jordan Davis Featuring Luke Bryan,2022,1,2y9DFhTWC7QQJMvygK0TzO,Buy Dirt,83,
+50,I Hate U,SZA,2022,1,07w0rG5TETcyihsEIZR3qG,SOS,75,https://p.scdn.co/mp3-preview/8412b6f5e28262fd58acc6c92a094615714fba54?cid=6a78982078cb477d900388b0470ad9ad
+51,Boyfriend,Dove Cameron,2022,1,4kC5hseZbGaAjiJvr9Hk55,Alchemical: Volume 1,76,https://p.scdn.co/mp3-preview/2239af86b310ca77423af660ba8f113e6ba3b3ae?cid=6a78982078cb477d900388b0470ad9ad
+52,Glimpse Of Us,Joji,2022,1,6ZZvx0aefZV3LKa053fn71,Glimpse of Us,81,https://p.scdn.co/mp3-preview/12e4a7ef3f1051424e6e282dfba83fe8448e122f?cid=6a78982078cb477d900388b0470ad9ad
+53,Surface Pressure,Jessica Darrow,2022,1,5IQviZiPOcXLBAd9eGo2sA,"Surface Pressure (From ""Encanto"")",59,
+54,Fall In Love,Bailey Zimmerman,2022,1,19DGbjQW4oJmS1TLmr7OH3,Religiously. The Album.,77,https://p.scdn.co/mp3-preview/176eb80c187a0d2a8b784b4eb6f945deef83a574?cid=6a78982078cb477d900388b0470ad9ad
+55,Love Nwantiti (Ah Ah Ah),CKay,2022,1,2IOV1DFH5EEpuroH0zwBIu,Love Nwantiti ( ah ah ah ) - Ckay b 3atma Mashup,37,https://p.scdn.co/mp3-preview/b592cb2a7ef326b1c39178db35c29395d0444c92?cid=6a78982078cb477d900388b0470ad9ad
+56,Super Freaky Girl,Nicki Minaj,2022,1,1ia27ME4iQkoIyUHBnJqX6,Queen Radio: Volume 1,71,
+57,Hrs And Hrs,Muni Long,2022,1,29VQRaMV0FqhEsAPWQe95C,Hrs & Hrs (Remix),61,
+58,Sand In My Boots,Morgan Wallen,2022,1,6LBPsXUjVuNe9ywLY4xgvX,Dangerous: The Double Album (Bonus),54,
+59,MAMIII,Becky G X Karol G,2022,1,7eC4wtMG1I2Jtk4FDWbkKC,ESQUEMAS,81,https://p.scdn.co/mp3-preview/0a699c30d354c4cb36439d03522e65b377ac0fd8?cid=6a78982078cb477d900388b0470ad9ad
+60,Knife Talk,Drake Featuring 21 Savage & Project Pat,2022,1,3SpBlxme9WbeQdI9kx7KAV,Certified Lover Boy,80,
+61,AA,Walker Hayes,2022,1,4sShdTo9jO2RGLgDkZBgN8,Country Stuff The Album,74,https://p.scdn.co/mp3-preview/c69e547d9f87c936d8f1cbaca921e0593db43572?cid=6a78982078cb477d900388b0470ad9ad
+62,Sweetest Pie,Megan Thee Stallion & Dua Lipa,2022,1,4qw41n8iWrdR70Ui3hYBPv,Sweetest Pie,71,https://p.scdn.co/mp3-preview/a9097ac4a504d37508dad964e42e967794d88424?cid=6a78982078cb477d900388b0470ad9ad
+63,Provenza,Karol G,2022,1,4kS7bSuU0Jm9LYMosFU2x5,MAÑANA SERÁ BONITO,83,
+64,Essence,Wizkid Featuring Justin Bieber & Tems,2022,1,0Rn8NAh8NnoaCOt8r8Tc3e,Essence (feat. Justin Bieber & Tems),64,https://p.scdn.co/mp3-preview/7a1eaedacbc1018448d72e36ae97b7a1d7789dc0?cid=6a78982078cb477d900388b0470ad9ad
+65,All I Want For Christmas Is You,Mariah Carey,2022,1,61ulfFSmmxMhc2wCdmdMkN,Merry Christmas,70,https://p.scdn.co/mp3-preview/6b1557cd25d543940a3decd85a7bf2bc136c51f8?cid=6a78982078cb477d900388b0470ad9ad
+66,Bam Bam,Camila Cabello Featuring Ed Sheeran,2022,1,15uKoGNVGlkP74imMtfrmw,Bam Bam (feat. Ed Sheeran) [Karaoke Version],23,https://p.scdn.co/mp3-preview/34b8ba2e7f788ac9ca859a62a1de7c6272acc9e5?cid=6a78982078cb477d900388b0470ad9ad
+67,5 Foot 9,Tyler Hubbard,2022,1,2S3Q7phoa4bZEijkTRYaLu,Tyler Hubbard,72,
+68,Get Into It (Yuh),Doja Cat,2022,1,77wYEnw2gO0ceWtnv4QIxw,"Smooth Jazz All Stars Play Doja Cat, Vol. 2 (Instrumental)",1,https://p.scdn.co/mp3-preview/ff11428a8fcddd42f1464fada9125b2bf3bb9ff4?cid=6a78982078cb477d900388b0470ad9ad
+69,Efecto,Bad Bunny,2022,1,3RQQmkQEvNCY4prGKE6oc5,Un Verano Sin Ti,83,https://p.scdn.co/mp3-preview/a622a47c8df98ef72676608511c0b2e1d5d51268?cid=6a78982078cb477d900388b0470ad9ad
+70,Rock And A Hard Place,Bailey Zimmerman,2022,1,19DGbjQW4oJmS1TLmr7OH3,Religiously. The Album.,81,https://p.scdn.co/mp3-preview/00044664941fe246993a2db5a7b76f95170b58ab?cid=6a78982078cb477d900388b0470ad9ad
+71,Doin' This,Luke Combs,2022,1,1m9DVgV0kEBiVZ4ElhJEte,Growin' Up,66,https://p.scdn.co/mp3-preview/25c78c1ba1fc840bf06d71dc1adf9020ca4bdcf9?cid=6a78982078cb477d900388b0470ad9ad
+72,Oh My God,Adele,2022,1,21jF5jlMtzo94wbxmJ18aa,30,76,https://p.scdn.co/mp3-preview/da3141fbf42b7fe6d809a87d75d8537056381970?cid=6a78982078cb477d900388b0470ad9ad
+73,Better Days,NEIKED X Mae Muller X Polo G,2022,1,2wcv0lHk5fUYyNGKugGa7q,Better Days (NEIKED x Mae Muller x Polo G),74,
+74,Meet Me At Our Spot,THE ANXIETY: WILLOW & Tyler Cole,2022,1,7x5oZf6cKUstjslCxLsKkT,Meet Me At Our Spot (Live),61,
+75,Fingers Crossed,Lauren Spencer Smith,2022,1,1nEJIdxjw5Y6LBlWLGJzzT,Mirror,76,
+76,All Too Well (Taylor's Version),Taylor Swift,2022,1,6kZ42qRrzov54LcAk4onW9,Red (Taylor's Version),84,
+77,Party,Bad Bunny & Rauw Alejandro,2022,1,3RQQmkQEvNCY4prGKE6oc5,Un Verano Sin Ti,79,https://p.scdn.co/mp3-preview/c8d2983c0dbd872db6467308122c8c3652ae31c2?cid=6a78982078cb477d900388b0470ad9ad
+78,Despues de La Playa,Bad Bunny,2022,1,0umJAglpJi49Y0ycMesaFe,Party Tyme 218 (Spanish Karaoke Versions),0,
+79,You Should Probably Leave,Chris Stapleton,2022,1,0sOeI7pbAmIc8aDFyvkBUW,Starting Over,84,
+80,Rockin' Around The Christmas Tree,Brenda Lee,2022,1,34wa3zf2prXFMk47t9zHFG,Merry Christmas From Brenda Lee,64,
+81,Broadway Girls,Lil Durk Featuring Morgan Wallen,2022,1,021fiBoLY6KwQmgIvByEtG,Broadway Girls (feat. Morgan Wallen),70,https://p.scdn.co/mp3-preview/6a1efab987254856fdcd7372dc57d61e98a18e46?cid=6a78982078cb477d900388b0470ad9ad
+82,Take My Name,Parmalee,2022,1,0BYiDyfOOhzFrX9ENunvbk,For You,69,https://p.scdn.co/mp3-preview/484fe31bb8217f25926b0f3b209a2787a88fe0ea?cid=6a78982078cb477d900388b0470ad9ad
+83,What Happened To Virgil,Lil Durk Featuring Gunna,2022,1,64mCp3E6gJ6H1Q0l9S8G0E,What Happened To Virgil (Originally Performed by Lil Durk and Gunna) [Instrumental Version],0,https://p.scdn.co/mp3-preview/1a0af68472ebefa948bcf3f6dd0fad4178f170ac?cid=6a78982078cb477d900388b0470ad9ad
+84,Puffin On Zootiez,Future,2022,1,6tE9Dnp2zInFij4jKssysL,I NEVER LIKED YOU,79,https://p.scdn.co/mp3-preview/a5bb6f511c845bd5f971e0fca5ba45f080835ca9?cid=6a78982078cb477d900388b0470ad9ad
+85,Like I Love Country Music,Kane Brown,2022,1,6IXSaIsyP9LbtccncAs2Gg,Like I Love Country Music,63,https://p.scdn.co/mp3-preview/5c4fddb8ad0c47b582f4392305f27d1d61e0ab1b?cid=6a78982078cb477d900388b0470ad9ad
+86,Jingle Bell Rock,Bobby Helms,2022,1,6rxEZkfRTatrDUm4MCyJqm,Presenting Bobby Helms,50,https://p.scdn.co/mp3-preview/4eca46a4b9ae37fe22543bcaa277e4b38f7ce336?cid=6a78982078cb477d900388b0470ad9ad
+87,Ojitos Lindos,Bad Bunny & Bomba Estereo,2022,1,3RQQmkQEvNCY4prGKE6oc5,Un Verano Sin Ti,85,https://p.scdn.co/mp3-preview/d9e32879becf10d4b28d66b55033bc91803d95f7?cid=6a78982078cb477d900388b0470ad9ad
+88,Trouble With A Heartbreak,Jason Aldean,2022,1,3DmTwDlyCJ4zEFM6qmquL4,GEORGIA,60,https://p.scdn.co/mp3-preview/b9217320424b6dd1f6dd4294a8d0c6e18a03b8a2?cid=6a78982078cb477d900388b0470ad9ad
+89,A Holly Jolly Christmas,Burl Ives,2022,1,6MvKUOSuPdfH0WLeQjR3eR,Have A Holly Jolly Christmas,56,
+90,Kiss Me More,Doja Cat Featuring SZA,2022,1,1OnzqJTL9bwe4kvaLxRYxt,Kiss Me More (feat. SZA),77,https://p.scdn.co/mp3-preview/e3ea7622ca746e1e96c3dac7d7e07b7ccfdeb3f1?cid=6a78982078cb477d900388b0470ad9ad
+91,She Likes It,Russell Dickerson & Jake Scott,2022,1,1w19pMaq0hP50uuhc8fHP4,The Afterparty Deluxe,34,https://p.scdn.co/mp3-preview/b022b4d58f08c074516a848dcf84d9c0fac6b0e2?cid=6a78982078cb477d900388b0470ad9ad
+92,Never Say Never,Cole Swindell / Lainey Wilson,2022,1,5UgaQfAOaOdfLxFClw8EWa,Stereotype,60,https://p.scdn.co/mp3-preview/2da028bedd472a0317a920212e3dbbf3ca58b2b2?cid=6a78982078cb477d900388b0470ad9ad
+93,Damn Strait,Scotty McCreery,2022,1,3WOFt4KvKhIeHN4fckCf5y,Damn Strait,57,https://p.scdn.co/mp3-preview/5ebbb6c41c21e6184819124e0dc5b8c421cb4d57?cid=6a78982078cb477d900388b0470ad9ad
+94,She's All I Wanna Be,Tate McRae,2022,1,5fhTetHew6Eph6HfQ9O5gJ,i used to think i could fly,80,https://p.scdn.co/mp3-preview/404935a0ab1ae472569566569e893b6bf816a92a?cid=6a78982078cb477d900388b0470ad9ad
+95,Last Night Lonely,Jon Pardi,2022,1,2QriWWJQt8g8XXoC1ATDPa,Mr. Saturday Night,72,
+96,Flower Shops,ERNEST Featuring Morgan Wallen,2022,1,5mTNFZBZyKIZSYrIAf9c5L,FLOWER SHOPS (THE ALBUM),53,https://p.scdn.co/mp3-preview/b4ed3fea91408d4c5a7b71e1f5bd4a87026b4ee5?cid=6a78982078cb477d900388b0470ad9ad
+97,To The Moon!,JNR CHOI & Sam Tompkins,2022,1,70uNWLPkbci5L1bZI1Mzp6,TO THE MOON,69,https://p.scdn.co/mp3-preview/623e89d7f897487b163d88ca750555e3a8d0b76d?cid=6a78982078cb477d900388b0470ad9ad
+98,Unholy,Sam Smith & Kim Petras,2022,1,0gX9tkL5njRax8ymWcXARi,Unholy (feat. Kim Petras),82,
+99,One Mississippi,Kane Brown,2022,1,3VCaKLIlIDrfKvurZcTmBl,One Mississippi,61,https://p.scdn.co/mp3-preview/24c0c7c77d944a33d03e75ed12eb4d1ee5f13922?cid=6a78982078cb477d900388b0470ad9ad
+100,Circles Around This Town,Maren Morris,2022,1,2MeNs8IOs7udC2CuiFKmlZ,Circles Around This Town,50,https://p.scdn.co/mp3-preview/33c6451483f338b2964a03ebe2a776f2593c4745?cid=6a78982078cb477d900388b0470ad9ad
+1,Last Night,Morgan Wallen,2023,1,7fOmdhRrRohTzToL617xkk,3 Songs At A Time Sampler,83,
+2,Flowers,Miley Cyrus,2023,1,0lpitta7fAqee8lqjzoNKD,Flowers (Originally Performed by Miley Cyrus) [Karaoke Version],17,https://p.scdn.co/mp3-preview/28ad0671dff4b82a616a96a41ea3e1491bfef6e6?cid=6a78982078cb477d900388b0470ad9ad
+3,Kill Bill,SZA,2023,1,1nrVofqDRs7cpWXJ49qTnP,SOS,87,https://p.scdn.co/mp3-preview/4bd2dc84016f3743add7eea8b988407b1b900672?cid=6a78982078cb477d900388b0470ad9ad
+4,Anti-Hero,Taylor Swift,2023,1,151w1FgRZfnKZA9FEcg9Z3,Midnights,89,
+5,Creepin',"Metro Boomin, The Weeknd & 21 Savage",2023,1,1aiyMSJPLznkbPWfelapWU,Creepin' - Sped Up Version,62,https://p.scdn.co/mp3-preview/a6c77b97f15799669f7c0bb15486a1ec771aedf0?cid=6a78982078cb477d900388b0470ad9ad
+6,Calm Down,Rema & Selena Gomez,2023,1,2b2GHWESCWEuHiCZ2Skedp,Calm Down (with Selena Gomez),85,
+7,Die For You,The Weeknd & Ariana Grande,2023,1,6Exo0MYoL3XammoTDeihFy,Die For You (Remix),79,
+8,Fast Car,Luke Combs,2023,1,5Uly85dJHHDfHQCsyUQ8gw,Gettin' Old,87,https://p.scdn.co/mp3-preview/1dc0426c95058783e0fe1d70c41583ca98317108?cid=6a78982078cb477d900388b0470ad9ad
+9,Snooze,SZA,2023,1,07w0rG5TETcyihsEIZR3qG,SOS,91,https://p.scdn.co/mp3-preview/8c53920b5fd2c3178afa36cac9eec68b5ee9204a?cid=6a78982078cb477d900388b0470ad9ad
+10,I'm Good (Blue),David Guetta & Bebe Rexha,2023,1,7M842DMhYVALrXsw3ty7B3,I'm Good (Blue),90,https://p.scdn.co/mp3-preview/c1de960c1a98f7ab652331e5223c50baba75c460?cid=6a78982078cb477d900388b0470ad9ad
+11,Unholy,Sam Smith & Kim Petras,2023,1,0gX9tkL5njRax8ymWcXARi,Unholy (feat. Kim Petras),82,
+12,You Proof,Morgan Wallen,2023,1,2ORO3nNnFXxsvz9Pcd9RdI,You Proof,75,
+13,Something In The Orange,Zach Bryan,2023,1,1CmTOKCeyz1aHH04OwvTPv,Something in the Orange,89,https://p.scdn.co/mp3-preview/d33dc9df586e24c9d8f640df08b776d94680f529?cid=6a78982078cb477d900388b0470ad9ad
+14,Rich Flex,Drake & 21 Savage,2023,1,0MV1yCXcNNQBfwApqAVkH0,Without Warning,83,https://p.scdn.co/mp3-preview/89cee86b4663ac093731d7a433491dd71e286f61?cid=6a78982078cb477d900388b0470ad9ad
+15,As It Was,Harry Styles,2023,1,5r36AJ6VOJtp00oxSkBZ5h,Harry's House,92,https://p.scdn.co/mp3-preview/c43dd07043b29e800c1a65b3a0102861fa3cf418?cid=6a78982078cb477d900388b0470ad9ad
+16,Rock And A Hard Place,Bailey Zimmerman,2023,1,19DGbjQW4oJmS1TLmr7OH3,Religiously. The Album.,81,https://p.scdn.co/mp3-preview/00044664941fe246993a2db5a7b76f95170b58ab?cid=6a78982078cb477d900388b0470ad9ad
+17,Under The Influence,Chris Brown,2023,1,3okhA6w5uau6ZNhnVpwVww,Indigo (Extended),85,https://p.scdn.co/mp3-preview/52295df71df20e33e1510e3983975cd59f6664a4?cid=6a78982078cb477d900388b0470ad9ad
+18,Cruel Summer,Taylor Swift,2023,1,1NAmidJlEaVgA3MpcPFYGq,Lover,97,
+19,Thinkin' Bout Me,Morgan Wallen,2023,1,6i7mF7whyRJuLJ4ogbH2wh,One Thing At A Time,87,
+20,"Boy's A Liar, Pt. 2",PinkPantheress & Ice Spice,2023,1,6cVfHBcp3AdpYY0bBglkLN,Boy's a liar Pt. 2,79,https://p.scdn.co/mp3-preview/543d8d09a5530a1ab94dd0c6f83fc4ee3e0d7f96?cid=6a78982078cb477d900388b0470ad9ad
+21,Favorite Song,Toosii,2023,1,4XiUZULpVS6gTgKKU7KTX5,Favorite Song,71,
+22,Thought You Should Know,Morgan Wallen,2023,1,6i7mF7whyRJuLJ4ogbH2wh,One Thing At A Time,79,
+23,Thank God,Kane Brown With Katelyn Brown,2023,1,7dfTBn7wtgKEchVmyipBl1,Different Man,74,https://p.scdn.co/mp3-preview/852b3a14655f3b1dbd94226b16f87edfc6c82340?cid=6a78982078cb477d900388b0470ad9ad
+24,Sure Thing,Miguel,2023,1,493HYe7N5pleudEZRyhE7R,All I Want Is You,86,https://p.scdn.co/mp3-preview/d337faa4bb71c8ac9a13998be64fbb0d7d8b8463?cid=6a78982078cb477d900388b0470ad9ad
+25,All My Life,Lil Durk Featuring J. Cole,2023,1,0lZQagJ5r0crB35zphSD4A,All My Life (feat. J. Cole),76,https://p.scdn.co/mp3-preview/736c0ff37c1b6b7ca182ea6e78db36163e5e6eae?cid=6a78982078cb477d900388b0470ad9ad
+26,Ella Baila Sola,Eslabon Armado X Peso Pluma,2023,1,5iMh8Xs1u9nXgDR8VFqtr3,Spanish Hits 2023 - Party Tyme (Spanish Backing Versions),1,
+27,Karma,Taylor Swift Featuring Ice Spice,2023,1,1fnJ7k0bllNfL1kVdNVW1A,Midnights (The Til Dawn Edition),70,
+28,Just Wanna Rock,Lil Uzi Vert,2023,1,2FD6g8bXEn2uQMYbeqqoCg,Just Wanna Rock,77,https://p.scdn.co/mp3-preview/72dce26448e87be36c3776ded36b75a9fd01359e?cid=6a78982078cb477d900388b0470ad9ad
+29,Cuff It,Beyonce,2023,1,3ctW8o8ABBCNWWkdIvEGgV,RENAISSANCE,58,https://p.scdn.co/mp3-preview/d618ce43ded01104a1765b68cfe9cb8cc57eabda?cid=6a78982078cb477d900388b0470ad9ad
+30,Vampire,Olivia Rodrigo,2023,1,1xJHno7SmdVtZAtXbdbDZp,GUTS,91,
+31,Fukumean,Gunna,2023,1,5qmZefgh78fN3jsyPPlvuw,a Gift & a Curse,87,https://p.scdn.co/mp3-preview/f237ab921af697ba9b49e12fa167c2ce1a82d6b4?cid=6a78982078cb477d900388b0470ad9ad
+32,Lavender Haze,Taylor Swift,2023,1,6eKdbTio5viiwJ5FE5J8wU,Lavender Haze (Acoustic Version),61,
+33,Players,Coi Leray,2023,1,4cAAsw7mPkGt15GXQzWlrM,Players,75,
+34,Need A Favor,Jelly Roll,2023,1,2v1Lb9hidHkvvlIXYzSmeZ,Whitsitt Chapel,80,https://p.scdn.co/mp3-preview/cddc53b034f5e8a7accf9f518c16b7c767dbf9f0?cid=6a78982078cb477d900388b0470ad9ad
+35,Dance The Night,Dua Lipa,2023,1,5cH7FqB7JD5q1tJXJ7FHYu,Dance The Night (From Barbie The Album),88,https://p.scdn.co/mp3-preview/acaea048f50a3b30ca24b348c84a6047373baabb?cid=6a78982078cb477d900388b0470ad9ad
+36,Love You Anyway,Luke Combs,2023,1,5Uly85dJHHDfHQCsyUQ8gw,Gettin' Old,74,https://p.scdn.co/mp3-preview/1c9a6aa927e8fe8cdde43e167d8245a528f85bd4?cid=6a78982078cb477d900388b0470ad9ad
+37,One Thing At A Time,Morgan Wallen,2023,1,6i7mF7whyRJuLJ4ogbH2wh,One Thing At A Time,76,
+38,Superhero (Heroes & Villains),"Metro Boomin, Future & Chris Brown",2023,1,7txGsnDSqVMoRl6RQ9XyZP,HEROES & VILLAINS,86,
+39,Bad Habit,Steve Lacy,2023,1,3Ks0eeH0GWpY4AU20D5HPD,Gemini Rights,80,https://p.scdn.co/mp3-preview/efe7c2fdd8fa727a108a1270b114ebedabfd766c?cid=6a78982078cb477d900388b0470ad9ad
+40,La Bebe,Yng Lvcas x Peso Pluma,2023,1,6aBVGuOUEuX18rHxyDWbti,La Bebe (Remix),87,https://p.scdn.co/mp3-preview/57c5d5266219b32d455ed22417155bbabde7170f?cid=6a78982078cb477d900388b0470ad9ad
+41,Golden Hour,JVKE,2023,1,69AaAkdktFGnk9POmHENkT,this is what ____ feels like (Vol. 1-4),81,https://p.scdn.co/mp3-preview/bcc17f30841d6fbf3cd7954c3e3cf669f11b6a21?cid=6a78982078cb477d900388b0470ad9ad
+42,Religiously,Bailey Zimmerman,2023,1,19DGbjQW4oJmS1TLmr7OH3,Religiously. The Album.,81,https://p.scdn.co/mp3-preview/debc354616b7a8740a151f4f7fed551654eed742?cid=6a78982078cb477d900388b0470ad9ad
+43,Spin Bout U,Drake & 21 Savage,2023,1,5MS3MvWHJ3lOZPLiMxzOU6,Her Loss,80,
+44,Cupid,Fifty Fifty,2023,1,4lmebGP87hUt2h4nwsfd73,The Beginning,78,https://p.scdn.co/mp3-preview/3a7021f5109c12e4ddfd4ed25ad68cab367400a9?cid=6a78982078cb477d900388b0470ad9ad
+45,Search & Rescue,Drake,2023,1,67WUCOjyl44d8fAFzHONjW,Search & Rescue,78,
+46,Barbie World,Nicki Minaj & Ice Spice With Aqua,2023,1,5CM66hwjlbZ06LhONWXOAs,Barbie World (with Aqua) [From Barbie The Album],80,https://p.scdn.co/mp3-preview/f654928ccaa4e6a9fb09a6eb3f208383eccc12a9?cid=6a78982078cb477d900388b0470ad9ad
+47,Next Thing You Know,Jordan Davis,2023,1,7Joe4M8FRFyVxmKUSndVqp,Next Thing You Know,71,
+48,Escapism,RAYE Featuring 070 Shake,2023,1,3U8n8LzBx2o9gYXvvNq4uH,My 21st Century Blues,83,https://p.scdn.co/mp3-preview/8a8fcaf9ddf050562048d1632ddc880c9ce7c972?cid=6a78982078cb477d900388b0470ad9ad
+49,Un x100to,Grupo Frontera X Bad Bunny,2023,1,0MZri5JqxanazJX2SEbyP8,Spanish Hits 2023 - Party Tyme (Spanish Vocal Versions),4,
+50,Until I Found You,Stephen Sanchez,2023,1,6BUPtXbb2tspYnkVdg5Ef7,Easy On My Eyes,80,
+51,Shirt,SZA,2023,1,07w0rG5TETcyihsEIZR3qG,SOS,86,https://p.scdn.co/mp3-preview/36cfe8fbfb78aa38ca3b222c4b9fc88cda992841?cid=6a78982078cb477d900388b0470ad9ad
+52,Paint The Town Red,Doja Cat,2023,1,54dZypaXHAIDzBe9ujAZ63,Paint The Town Red,88,https://p.scdn.co/mp3-preview/1d4dc1cd67ba78afec8cfb3e5258a9ab9b707dd8?cid=6a78982078cb477d900388b0470ad9ad
+53,Made You Look,Meghan Trainor,2023,1,4LVa9bljQRvLYpWr8qyaXs,Takin' It Back,85,https://p.scdn.co/mp3-preview/f0eb89945aa820c0f30b5e97f8e2cab42d9f0a99?cid=6a78982078cb477d900388b0470ad9ad
+54,Wait In The Truck,HARDY Featuring Lainey Wilson,2023,1,2WEFdKzGuoE8eVWCqeC5SA,wait in the truck (feat. Lainey Wilson),66,https://p.scdn.co/mp3-preview/3470e502abbd5650f2ac0a65975126bbeaf342a6?cid=6a78982078cb477d900388b0470ad9ad
+55,All I Want For Christmas Is You,Mariah Carey,2023,1,61ulfFSmmxMhc2wCdmdMkN,Merry Christmas,70,https://p.scdn.co/mp3-preview/6b1557cd25d543940a3decd85a7bf2bc136c51f8?cid=6a78982078cb477d900388b0470ad9ad
+56,Everything I Love,Morgan Wallen,2023,1,4N7bPFJ4g18KAzwtjW1mg8,3 Songs At A Time Sampler,65,
+57,Chemical,Post Malone,2023,1,7qcSUc5Af63mhfTF60KTEA,Chemical,83,
+58,Heart Like A Truck,Lainey Wilson,2023,1,06q6BDUpP6OS8Xnx3YC2M0,Bell Bottom Country,75,https://p.scdn.co/mp3-preview/a4d21c6290140a3a53b051bc9bd972db2dde12b4?cid=6a78982078cb477d900388b0470ad9ad
+59,"Going, Going, Gone",Luke Combs,2023,1,1m9DVgV0kEBiVZ4ElhJEte,Growin' Up,77,https://p.scdn.co/mp3-preview/7c0ae073e9b5b5c17d8b3b2b25620ec396c0d459?cid=6a78982078cb477d900388b0470ad9ad
+60,Rockin' Around The Christmas Tree,Brenda Lee,2023,1,34wa3zf2prXFMk47t9zHFG,Merry Christmas From Brenda Lee,64,
+61,Dancin' In The Country,Tyler Hubbard,2023,1,2S3Q7phoa4bZEijkTRYaLu,Tyler Hubbard,74,
+62,Daylight,David Kushner,2023,1,6NcI39WPu4kY6Tul11nhSv,Daylight,91,
+63,Lift Me Up,Rihanna,2023,1,3Zzv75PyROH6AMeXN1Yr1h,Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By),73,
+64,Eyes Closed,Ed Sheeran,2023,1,2WFFcvzM0CgLaSq4MSkyZk,- (Deluxe),80,https://p.scdn.co/mp3-preview/7cd2576f2d27799fe8c515c4e0fc880870a5cc88?cid=6a78982078cb477d900388b0470ad9ad
+65,TQG,Karol G x Shakira,2023,1,6lvYQBtbD34rYvhdhTcJSq,"Karaoketop Collection, Vol. 48 (Karaoke Versions)",1,https://p.scdn.co/mp3-preview/c69c094cb370ec5df01e5b044af7b912de3626e8?cid=6a78982078cb477d900388b0470ad9ad
+66,Try That In A Small Town,Jason Aldean,2023,1,2SCppOPkT7XTKBJV2XIQUw,Highway Desperado,71,https://p.scdn.co/mp3-preview/808c6895642b3e6b1ec522a4b9823528145fe29e?cid=6a78982078cb477d900388b0470ad9ad
+67,Tennessee Orange,Megan Moroney,2023,1,5DFed53ADZwnPOYuqoZJHK,Lucky,77,https://p.scdn.co/mp3-preview/ca7195c94078dd2bf40b80acdffa3bb38b7ae378?cid=6a78982078cb477d900388b0470ad9ad
+68,Jingle Bell Rock,Bobby Helms,2023,1,6rxEZkfRTatrDUm4MCyJqm,Presenting Bobby Helms,50,https://p.scdn.co/mp3-preview/4eca46a4b9ae37fe22543bcaa277e4b38f7ce336?cid=6a78982078cb477d900388b0470ad9ad
+69,Princess Diana,Ice Spice & Nicki Minaj,2023,1,2Q7WBQ794rA9ISPLfqdKjK,Princess Diana (with Nicki Minaj),76,
+70,Tomorrow 2,GloRilla & Cardi B,2023,1,1kLWQJYzHP0kX6peGevMkC,"Anyways, Life’s Great…",71,
+71,A Holly Jolly Christmas,Burl Ives,2023,1,6MvKUOSuPdfH0WLeQjR3eR,Have A Holly Jolly Christmas,56,
+72,Where She Goes,Bad Bunny,2023,1,0MZri5JqxanazJX2SEbyP8,Spanish Hits 2023 - Party Tyme (Spanish Vocal Versions),2,
+73,Bebe Dame,Fuerza Regida X Grupo Frontera,2023,1,5iMh8Xs1u9nXgDR8VFqtr3,Spanish Hits 2023 - Party Tyme (Spanish Backing Versions),0,
+74,I Remember Everything,Zach Bryan Featuring Kacey Musgraves,2023,1,6PbnGueEO6LGodPfvNldYf,Zach Bryan,92,https://p.scdn.co/mp3-preview/22b240f7ef2eff38bd12fb0c94dfea5e1d70e20a?cid=6a78982078cb477d900388b0470ad9ad
+75,I Like You (A Happier Song),Post Malone Featuring Doja Cat,2023,1,3HHNR44YbP7XogMVwzbodx,Twelve Carat Toothache,82,
+76,What It Is (Block Boy),Doechii Featuring Kodak Black,2023,1,1O9xrX782LqLx4Z60528Ih,What It Is (Block Boy) (with Kodak Black),70,
+77,Nobody Gets Me,SZA,2023,1,07w0rG5TETcyihsEIZR3qG,SOS,86,https://p.scdn.co/mp3-preview/36cfe8fbfb78aa38ca3b222c4b9fc88cda992841?cid=6a78982078cb477d900388b0470ad9ad
+78,Rich Men North Of Richmond,Oliver Anthony Music,2023,1,02X1cQOUcwYPxgFfqHeitI,Rich Men North of Richmond,82,https://p.scdn.co/mp3-preview/afacdcf7e5b3560d5dcd5596e0e4caae9b0a7fc9?cid=6a78982078cb477d900388b0470ad9ad
+79,Super Freaky Girl,Nicki Minaj,2023,1,1ia27ME4iQkoIyUHBnJqX6,Queen Radio: Volume 1,71,
+80,Dial Drunk,Noah Kahan With Post Malone,2023,1,4XahqkOmEsKLKEhBpX8DAe,Dial Drunk (with Post Malone),85,
+81,What Was I Made For?,Billie Eilish,2023,1,3AafSrFIbJPH6BJHiJm1Cd,"What Was I Made For? [From The Motion Picture ""Barbie""]",92,
+82,Seven,Jung Kook Featuring Latto,2023,1,5pSk3c3wVwnb2arb6ohCPU,GOLDEN,87,https://p.scdn.co/mp3-preview/c6f315711a77fba52139f54587afa7e7d16a1232?cid=6a78982078cb477d900388b0470ad9ad
+83,Wait For U,Future Featuring Drake & Tems,2023,1,6tE9Dnp2zInFij4jKssysL,I NEVER LIKED YOU,82,https://p.scdn.co/mp3-preview/38e12dbcba624463f1a360afd5dcceaf281b1ea5?cid=6a78982078cb477d900388b0470ad9ad
+84,Last Christmas,Wham!,2023,1,6egzU9NKfora01qaNbvwfZ,LAST CHRISTMAS,71,https://p.scdn.co/mp3-preview/5c6b42e86dba5ec9e8346a345b3a8822b2396d3f?cid=6a78982078cb477d900388b0470ad9ad
+85,Handle On You,Parker McCollum,2023,1,4i3ay5RKpdmJok8zazCdlf,Never Enough,70,
+86,Por Las Noches,Peso Pluma,2023,1,0AC1pv2TucEtDsI6pK2EmG,Por las Noches (Remix),71,https://p.scdn.co/mp3-preview/6eea732dbc7f82211d27c9113c3734404b144dee?cid=6a78982078cb477d900388b0470ad9ad
+87,Memory Lane,Old Dominion,2023,1,3PUA3xAHTsDAp11oAb33Mv,Memory Lane,73,https://p.scdn.co/mp3-preview/f080bb4fa88f65e222439820a43e50c8ed92fa72?cid=6a78982078cb477d900388b0470ad9ad
+88,Area Codes,Kaliii,2023,1,6uk3hBYbrMsSzufADPjv9K,Area Codes,77,https://p.scdn.co/mp3-preview/d1beed2734f948ec9c33164d3aa818e04f4afd30?cid=6a78982078cb477d900388b0470ad9ad
+89,Bury Me In Georgia,Kane Brown,2023,1,5KiNzxNpSxplw7RxB9SSEo,Bury Me in Georgia,63,https://p.scdn.co/mp3-preview/1bcf9664ae7b1fd6455442d709279972bd4c5806?cid=6a78982078cb477d900388b0470ad9ad
+90,PRC,Peso Pluma X Natanael Cano,2023,1,2OXBosbXT7Qs3J6vBd6IkI,PRC,78,https://p.scdn.co/mp3-preview/04ebbfd99947c52464a0c31b25ccc02fcef69ae0?cid=6a78982078cb477d900388b0470ad9ad
+91,What My World Spins Around,Jordan Davis,2023,1,6izHNYgyKzGdRpYwtYFaaG,Bluebird Days,77,
+92,Ain't That Some,Morgan Wallen,2023,1,6i7mF7whyRJuLJ4ogbH2wh,One Thing At A Time,80,
+93,Wild As Her,Corey Kent,2023,1,6nIkyQ0HO6MDucznnn8DXi,Blacktop,73,https://p.scdn.co/mp3-preview/9db2d78adf0f9602fd2ffe580b79ae6aa3ff8ad5?cid=6a78982078cb477d900388b0470ad9ad
+94,Peaches & Eggplants,Young Nudy Featuring 21 Savage,2023,1,1UbeEAPS49eulB659XSU9g,Gumbo,70,https://p.scdn.co/mp3-preview/c8c99ebe8a3e76ec03247eed3e9eea7de6ba8f33?cid=6a78982078cb477d900388b0470ad9ad
+95,I Wrote The Book,Morgan Wallen,2023,1,7fOmdhRrRohTzToL617xkk,3 Songs At A Time Sampler,62,
+96,"Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,2023,1,3fonA82Hl7huJiQCwKkzGA,Las Mujeres Ya No Lloran,64,https://p.scdn.co/mp3-preview/3ba573cb752298abe9b6f538177ea80863ac4b72?cid=6a78982078cb477d900388b0470ad9ad
+97,Meltdown,Travis Scott Featuring Drake,2023,1,18NOKLkZETa4sWwLMIm0UZ,UTOPIA,83,https://p.scdn.co/mp3-preview/7c7e0e4419d101bcf73764f245639d7bc83b662a?cid=6a78982078cb477d900388b0470ad9ad
+98,Put It On Da Floor Again,Latto Featuring Cardi B,2023,1,4A43tzEN3jILvseI1HeXGG,Put It On Da Floor Again (feat. Cardi B),69,https://p.scdn.co/mp3-preview/3cd934af8742a4c035cbeb9586947ea0bd229842?cid=6a78982078cb477d900388b0470ad9ad
+99,Bloody Mary,Lady Gaga,2023,1,6LY3AerY6KNGOPsNPL63Kk,Born This Way (International Special Edition Version),77,
+100,Watermelon Moonshine,Lainey Wilson,2023,1,06q6BDUpP6OS8Xnx3YC2M0,Bell Bottom Country,77,https://p.scdn.co/mp3-preview/616455e085625d5662da9242fef54eb52a3044f1?cid=6a78982078cb477d900388b0470ad9ad
