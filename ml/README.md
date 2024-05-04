@@ -2,7 +2,7 @@
 This project uses self-composed dataset for *popular vs. unpopular* song classification.
 
 ## Popular Songs
-The list of popular songs alongwith their ranking is obtained from [billboard Year-End Hot 100 charts](https://www.billboard.com/charts/year-end/hot-100-songs/) (2019-2023, 5 yrs). Data scraping code can be found [here.](/ml/billboard_data_scraping.ipynb)
+The list of popular songs alongwith their ranking is obtained from [billboard Year-End Hot 100 charts](https://www.billboard.com/charts/year-end/hot-100-songs/). The data collection process including data scraping (billboard), song data retrieval (Spotify API) and data selection. Code can be found [here.](/ml/data_collection.ipynb)
 
 ## Unpopular Songs
 To creat contrast for better classification, unpopular songs are defined as the songs in the same album as popular songs but with **lowest Spotify play count**.
