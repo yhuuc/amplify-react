@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 
 class AudioPlayer extends React.Component {
-  render() {
+  render(song) {
     return (
-      <div>
-        <audio src="/Sleepmakeswaves - It's Dark, It's Cold, It's Winter.mp3" controls/>
+      <div style={{ margin: "2%" }}>
+        <audio src={song} controls />
       </div>
     );
   }

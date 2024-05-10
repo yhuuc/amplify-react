@@ -26,10 +26,6 @@ body {
   font-family: 'Times New Roman', Times, serif;
 } */
 
-button:hover {
-  box-shadow: 3px 3px 5px rgb(75, 75, 75);
-}
-
 .App {
   text-align: center;
 }
@@ -44,6 +40,7 @@ button:hover {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  box-shadow: 3px 3px 5px rgb(75, 75, 75);
 }
 
 .Shadow-box {
@@ -76,6 +73,7 @@ button:hover {
   display: flex;
   flex-direction: column;
   margin-right: 10%;
+  height: 80%;
 }
 
 .Button {
@@ -91,6 +89,10 @@ button:hover {
   font-size:x-large;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
+}
+
+button:hover {
+  box-shadow: 3px 3px 5px rgb(75, 75, 75);
 }
 
 .Song-uploader{
