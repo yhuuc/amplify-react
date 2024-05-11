@@ -2,6 +2,7 @@
 import "./index.css";
 import PredictButton from "./PredictButton";
 import ShowButton from "./ShowButton";
+import ModelButton from "./ModelButton";
 import SongUploader from "./SongUploader";
 
 function App() {
@@ -12,17 +13,21 @@ function App() {
           <h1 className="App-title">Song Popularity Predictor</h1>
         </div>
         <h2 className="App-subtitle">
-          Based on <i>billboard</i> ranking
+          Based on <i>billboard</i> and <i>Spotify</i>
         </h2>
       </header>
       <br />
       <div className="App-body">
         <div className="Button-stack">
-          <PredictButton />
-          <br />
-          <ShowButton />
+              <PredictButton />
+              <br />
+              <ShowButton />
+              {/* <br /> */}
+              {/* <ModelButton /> */}
         </div>
-        <SongUploader />
+        <div className="Song-uploader">
+              <SongUploader />
+        </div>
       </div>
     </div>
   );
