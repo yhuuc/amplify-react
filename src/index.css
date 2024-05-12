@@ -7,29 +7,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-} */
-
-/* button {
-  background-color: black;
-  margin:2%;
-  padding: 0.5% 1%;
-  border: 5px solid black;
-  border-radius: 10px;
-  color: white;
-  font-size: larger;
-  font-weight: bold;
-  font-family: 'Times New Roman', Times, serif;
-} */
-
 .App {
   text-align: center;
 }
 
 .App-header {
-  background-color: #000000;   /* #282c34 */
+  background-color: #000000;
   min-height: 20vh;
   padding-top: 2%;
   display: flex;
@@ -53,11 +36,8 @@ body {
 }
 
 .App-subtitle {
-  /* font-family: Georgia, 'Times New Roman', Times, serif; */
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  /* font-family: monospace; */
-  /* font-style: italic; */
-  /* color: firebrick; */
+
 }
 
 .App-body {
@@ -76,7 +56,8 @@ body {
 
 .Button {
   background-color: black;
-  height: 70px;
+  height: 60px;
+  width: 25vmin;
   margin:5%;
   padding: 0.5% 1%;
   border: 5px solid black;
@@ -87,34 +68,20 @@ body {
   font-size:large;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
-  cursor: pointer;
 }
 
 button:hover {
+  cursor: pointer;
   box-shadow: 3px 3px 5px rgb(75, 75, 75);
 }
 
 .Song-uploader{
-  margin: 20px;
-  padding: 80px;
+  margin: 5vmin;
+  padding: 15vmin;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content:space-evenly;
   border: solid black;
   border-radius: 25px;
-  cursor: pointer;
 }
-
-/* .App-link {
-  color: #61dafb;
-} */
-
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */

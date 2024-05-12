@@ -1,5 +1,11 @@
-import * as tf from "@tensorflow/tfjs";
-import * as tfvis from "@tensorflow/tfjs-vis";
+// import * as tf from "@tensorflow/tfjs";
+// import * as tfvis from "@tensorflow/tfjs-vis";
+// import * as tf from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js';
+// import * as tfvis from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis';
+import Essentia from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia.js-core.es.js';
+// import essentia-wasm-module
+import { EssentiaWASM } from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia-wasm.es.js';
+import Predict from './Predict';
 
 function PredictButton() {
     // const predict = () => {
@@ -51,17 +57,36 @@ function PredictButton() {
     //   }
 
     
-      async function predict () {
-        const tensor = tf.tensor1d([0, 0, 0, 0, 2, 3, 4]);
 
-        const surface = {name: 'Values Distribution', tab: 'Prediction'};
-        await tfvis.show.valuesDistribution(surface, tensor);
-        tfvis.visor().setActiveTab('Prediction')
-        // disable the button
-      }
+      // async function predict () {
+      //   const tensor = tf.tensor1d([0, 0, 0, 0, 2, 3, 4]);
+
+      //   const surface = {name: 'Values Distribution', tab: 'Prediction'};
+      //   await tfvis.show.valuesDistribution(surface, tensor);
+      //   tfvis.visor().setActiveTab('Prediction')
+      //   // disable the button
+      // }
+      async function Predict() {
+
+
+    //     const essentia = new Essentia(EssentiaWASM);
+    //     const audioCtx = new AudioContext();
+    
+    //     // let audioURL = "https://song-popularity-predictor-bucket.s3.ap-southeast-2.amazonaws.com/Sleepmakeswaves+-+It's+Dark%2C+It's+Cold%2C+It's+Winter.mp3";
+    //     let audioURL = "https://song-popularity-predictor-bucket.s3.ap-southeast-2.amazonaws.com/" + window.__filename;
+    //     console.log("audio link:",audioURL)
+
+    //     let buffer = essentia.getAudioBufferFromURL( audioURL, audioCtx )
+    //     console.log(buffer)
+    
+    //     essentia.shutdown();
+    // // delete EssentiaJS instance, free JS memory
+    //     essentia.delete();
+    }
+
 
     return (
-        <button className="Button" type="button" onClick={predict}>
+        <button className="Button" type="button" onClick={Predict}>
           Predict
         </button>
     );

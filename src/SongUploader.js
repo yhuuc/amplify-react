@@ -1,3 +1,38 @@
+import React, {useState, useCallback} from 'react';
+import {useDropzone} from 'react-dropzone';
+import AWS from 'aws-sdk';
+
+// function SongUploader() {
+//   const {acceptedFiles, getRootProps, getInputProps} = useDropzone({
+//     accept: {
+//       'audio/*' : ['.mp3','.wav'],
+//     }
+//   });
+  
+//   const files = acceptedFiles.map(file => (
+//     <li key={file.path}>
+//       {file.path} - {file.size} bytes
+//     </li>
+//   ));
+  
+//   return(
+//     <section className = "Song-uploader">
+//     <div {...getRootProps()}>
+//       <input {...getInputProps()} />
+//         <p>Drag 'n' drop your song here, or click to select files</p>
+//         <em>(Only accept *.mp3 and *.wav audio files)</em>
+//     </div>
+//     <aside>
+//       <h4>Files</h4>
+//       <ul style={{color:'cornflowerblue'}}>{files}</ul>
+//     </aside>
+//   </section>
+//   );
+// }
+// export default SongUploader;
+
+
+
 // import "react-dropzone-uploader/dist/styles.css";
 // import Dropzone from "react-dropzone-uploader";
 // // import AudioPlayer from "./AudioPlayer";
@@ -56,26 +91,67 @@
 // export default SongUploader;
 
 
+function SongUploader () {
+    // Create state to store file
+    const [file, setFile] = useState(null);
 
-import React, {useCallback} from 'react'
-import {useDropzone} from 'react-dropzone'
+    // Function to upload file to s3
+    const uploadFile = async () => {
+      const S3_BUCKET = "bucket-name";  
+      const REGION = "region";
 
-function SongUploader() {
-  const onDrop = useCallback(acceptedFiles => {
-    console.log(acceptedFiles);
-  }, [])
-  const {getRootProps, getInputProps, isDragActive} = useDropzone({onDrop})
+      // S3 Credentials
+      AWS.config.update({
+        accessKeyId: "youraccesskeyhere",
+        secretAccessKey: "yoursecretaccesskeyhere",
 
-  return (
-    <div {...getRootProps()}>
-      <input {...getInputProps()} />
-      {
-        isDragActive ?
-          <p>Drop the files here ...</p> :
-          <p>Drag 'n' drop some files here, or click to select files</p>
-      }
-    </div>
-  )
-}
+      });
+      const s3 = new AWS.S3({
+        params: { Bucket: S3_BUCKET },
+        region: REGION,
+      });
+  
+      // Files Parameters
+      const params = {
+        Bucket: S3_BUCKET,
+        Key: file.name,
+        Body: file,
+      };
+  
+      // Uploading file to s3
+      var upload = s3
+        .putObject(params)
+        .on("httpUploadProgress", (evt) => {
+          // File uploading progress
+          console.log(
+            "Uploading " + parseInt((evt.loaded * 100) / evt.total) + "%"
+          );
+        })
+        .promise();
+  
+      await upload.then((err, data) => {
+        console.log(err);
+        // Fille successfully uploaded
+        alert("File uploaded successfully.");
+      });
+    };
+    // Function to handle file and store it to file state
+    const handleFileChange = (e) => {
+      // Uploaded file
+      const file = e.target.files[0];
+      // Changing file state
+      setFile(file);
+      window.__filename=encodeURIComponent(file?.name);
+      console.log(file);
+    };
+    return (
+      <div className="Song-uploader">
+        <div>
+          <input type="file" onChange={handleFileChange} />
+          <button onClick={uploadFile}>Upload</button>
+        </div>
+      </div>
+    );
+  }
 
 export default SongUploader;

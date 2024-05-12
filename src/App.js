@@ -1,11 +1,35 @@
 // import logo from './logo.svg';
-import "./index.css";
-import PredictButton from "./PredictButton";
-import ShowButton from "./ShowButton";
-import ModelButton from "./ModelButton";
+import './index.css';
+import * as tfvis from "@tensorflow/tfjs-vis";
+import PredictButton from './PredictButton';
+import ShowButton from './ShowButton';
+import FeatureExtractionButton from './FeatureExtractionButton';
 import SongUploader from "./SongUploader";
 
 function App() {
+  //initialize a visor instance
+  const visorInstance = tfvis.visor();
+  visorInstance.close();
+  // // create a drop box
+  // const onDrop = useCallback(acceptedFiles => {
+  //   console.log(acceptedFiles);
+  //   acceptedFiles.forEach((file) => {
+  //     const reader = new FileReader()
+
+  //     reader.onabort = () => console.log('file reading was aborted')
+  //     reader.onerror = () => console.log('file reading has failed')
+  //     reader.onload = () => {
+  //     // Do whatever you want with the file contents
+  //       const binaryStr = reader.result
+  //       console.log(binaryStr)
+  //       // Predict(binaryStr);
+  //     }
+  //   })
+  // }, [])
+
+  // const {acceptedFiles,getRootProps, getInputProps, isDragActive} = useDropzone({onDrop})
+ 
+
   return (
     <div className="App">
       <header className="App-header">
@@ -18,16 +42,14 @@ function App() {
       </header>
       <br />
       <div className="App-body">
-        <div className="Button-stack">
-              <PredictButton />
-              <br />
+        <section className="Button-stack">
               <ShowButton />
-              {/* <br /> */}
-              {/* <ModelButton /> */}
-        </div>
-        <div className="Song-uploader">
-              <SongUploader />
-        </div>
+              <br />
+              <FeatureExtractionButton />
+              <br />
+              <PredictButton />
+        </section>
+        <SongUploader />
       </div>
     </div>
   );
