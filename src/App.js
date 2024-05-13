@@ -4,6 +4,7 @@ import * as tfvis from "@tensorflow/tfjs-vis";
 import PredictButton from './PredictButton';
 import ShowButton from './ShowButton';
 import FeatureExtractionButton from './FeatureExtractionButton';
+import AudioPlayer from './AudioPlayer';
 import SongUploader from "./SongUploader";
 
 function App() {
@@ -40,9 +41,9 @@ function App() {
           Based on <i>billboard</i> and <i>Spotify</i>
         </h2>
       </header>
-      <br />
+      <p>&#9312; <em>Upload audio file</em> &#9313; <em>Extract audio features</em> &#9314; <em>Make prediction</em> &#9315; <em>See charts</em></p>
       <div className="App-body">
-        <section className="Button-stack">
+        <section className="Container">
               <ShowButton />
               <br />
               <FeatureExtractionButton />

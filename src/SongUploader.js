@@ -94,7 +94,7 @@ import AWS from 'aws-sdk';
 function SongUploader () {
     // Create state to store file
     const [file, setFile] = useState(null);
-
+    const [link, setLink] = useState(null);
     // Function to upload file to s3
     const uploadFile = async () => {
       const S3_BUCKET = "bucket-name";  
@@ -132,6 +132,9 @@ function SongUploader () {
       await upload.then((err, data) => {
         console.log(err);
         // Fille successfully uploaded
+        window.__filelink="https://bucket-name.region.amazonaws.com/"+encodeURIComponent(file?.name);
+        setLink(window.__filelink)
+        console.log(window.__filelink);
         alert("File uploaded successfully.");
       });
     };
@@ -141,16 +144,18 @@ function SongUploader () {
       const file = e.target.files[0];
       // Changing file state
       setFile(file);
-      window.__filename=encodeURIComponent(file?.name);
       console.log(file);
     };
     return (
+      <section className="Container">
+      <audio style={{margin:'2%'}} src={link} controls />
       <div className="Song-uploader">
         <div>
           <input type="file" onChange={handleFileChange} />
           <button onClick={uploadFile}>Upload</button>
         </div>
       </div>
+      </section>
     );
   }
 
