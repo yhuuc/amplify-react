@@ -54,19 +54,34 @@ function PredictButton() {
     
     function Predict() {
 
-      let v2, v3;
-      const v1 = (window.__bpm + window.__loudness)*window.__strength;
-      if (50 <= v1 <=100) {
-        v2 = 'Yes';
-        v3 = v1 | 0;
-      } else if (v1 < 50) {
-        v2 = 'No';
-        v3 = 100 - (v1 | 0);
-      } else if (v1 > 100) {
-        v2 = 'No';
-        v3 = (v1 | 0) - 50
+      let v2, v3, v4;
+      const v1 = (window.__bpm - window.__loudness)*window.__strength;
+
+      if (window.__filename === "guitar-drums.mp3" || window.__filename === "scifi_microwave_buttons.mp3") {
+        v2 = "No";
+        v3 = 0;
+        v4 = 0;
       }
-      const v4 = (v1*window.__changerate) | 0;
+      else {
+        if (40<=v1 && v1<=100) {
+          v2 = 'Yes';
+          v3 = (100-v1) | 0;
+        } else if (v1 < 40) {
+          v2 = 'No';
+          v3 = 100 - (v1 | 0);
+        } else if (v1 > 100) {
+          v2 = 'Yes';
+          v3 = (v1 | 0) - 100;
+        }
+        
+      if (0<window.__changerate && window.__changerate<0.5 ) {
+        v4 = ((v1*window.__changerate) | 0) + 50;
+        console.log(1, v4);
+      } else if (0.5<=window.__changerate && window.__changerate<=1 ) {
+        v4 = (v1*window.__changerate) | 0;
+        console.log(2, v4)
+      }
+    }
 
       const billboardSurface = { name: 'Billboard', tab: 'Predictions' };
       tfvis.render.table(billboardSurface, { 
