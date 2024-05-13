@@ -10,25 +10,6 @@ function App() {
   //initialize a visor instance
   const visorInstance = tfvis.visor();
   visorInstance.close();
-  // // create a drop box
-  // const onDrop = useCallback(acceptedFiles => {
-  //   console.log(acceptedFiles);
-  //   acceptedFiles.forEach((file) => {
-  //     const reader = new FileReader()
-
-  //     reader.onabort = () => console.log('file reading was aborted')
-  //     reader.onerror = () => console.log('file reading has failed')
-  //     reader.onload = () => {
-  //     // Do whatever you want with the file contents
-  //       const binaryStr = reader.result
-  //       console.log(binaryStr)
-  //       // Predict(binaryStr);
-  //     }
-  //   })
-  // }, [])
-
-  // const {acceptedFiles,getRootProps, getInputProps, isDragActive} = useDropzone({onDrop})
- 
 
   return (
     <div className="App">
@@ -40,7 +21,10 @@ function App() {
           Based on <i>billboard</i> and <i>Spotify</i>
         </h2>
       </header>
-      <p>&#9312; <em>Upload audio file</em> &#9313; <em>Extract audio features</em> &#9314; <em>Make prediction</em> &#9315; <em>See charts</em></p>
+      <p>&#9312; <em>Upload audio file (wav, mp3, ogg, flac, etc.) </em> 
+         &#9313; <em>Extract audio features </em> 
+         &#9314; <em>Make prediction </em> 
+         &#9315; <em>See charts</em> </p>
       <div className="App-body">
         <section className="Container">
               <ShowButton />
