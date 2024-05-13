@@ -1,87 +1,85 @@
 // import * as tf from "@tensorflow/tfjs";
+import * as tfvis from '@tensorflow/tfjs-vis';
 // import * as tfvis from "@tensorflow/tfjs-vis";
 // import * as tf from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js';
 // import * as tfvis from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis';
-import Essentia from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia.js-core.es.js';
+// import Essentia from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia.js-core.es.js';
 // import essentia-wasm-module
-import { EssentiaWASM } from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia-wasm.es.js';
-import Predict from './Predict';
+// import { EssentiaWASM } from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia-wasm.es.js';
 
 function PredictButton() {
-    // const predict = () => {
-    //   console.log("Predicte button clicked");
-    //   // model inference
-    //   const visorInstance = tfvis.visor();
-    //   visorInstance.surface({
-    //     name: "Audio Analysis",
-    //     tab: "Feature Extraction",
+
+    // async function Predict() {
+
+    //   // Generate some synthetic data
+    //   const numSamples = 100;
+    //   const numFeatures = 2;
+    //   const xs = tf.randomNormal([numSamples, numFeatures]);
+    //   const ys = tf.tidy(() => {
+    //     const scale = tf.scalar(10);
+    //     return tf.add(tf.dot(xs, tf.randomNormal([numFeatures, 1])), scale);
     //   });
-    //   // insert data
-    //   visorInstance.toggle();
-    // };
 
+    //   // Define the SVM model
+    //   const svm = tf.sequential();
+    //   svm.add(tf.layers.dense({ units: 1, inputShape: [numFeatures], activation: 'linear' }));
 
-
-    // async function train(model, data, fitCallbacks) {
-    //     const BATCH_SIZE = 64;
-    //     const trainDataSize = 500;
-    //     const testDataSize = 100;
-    //     const [trainXs, trainYs] = tf.tidy(() => {
-    //       const d = data.nextTrainBatch(trainDataSize);
-    //       return [d.xs.reshape([trainDataSize, 28, 28, 1]), d.labels];
-    //     });
-    //     const [testXs, testYs] = tf.tidy(() => {
-    //       const d = data.nextTestBatch(testDataSize);
-    //       return [d.xs.reshape([testDataSize, 28, 28, 1]), d.labels];
-    //     });
-    //     return model.fit(trainXs, trainYs, {
-    //       batchSize: BATCH_SIZE,
-    //       validationData: [testXs, testYs],
-    //       epochs: 10,
-    //       shuffle: true,
-    //       callbacks: fitCallbacks,
-    //     });
-    //   }
-      
-    //   async function watchTraining() {
-    //     const metrics = ["loss", "val_loss", "acc", "val_acc"];
-    //     const container = {
-    //       name: "show.fitCallbacks",
-    //       tab: "Training",
-    //       styles: {
-    //         height: "1000px",
-    //       },
-    //     };
-    //     const callbacks = tfvis.show.fitCallbacks(container, metrics);
-    //     return train(model, data, callbacks);
+    //   // Define the loss function
+    //   function hingeLoss(labels, predictions) {
+    //     const zero = tf.scalar(0);
+    //     const margin = tf.scalar(1);
+    //     return tf.maximum(zero, tf.sub(margin, tf.mul(labels, predictions)));
     //   }
 
+    //   // Compile the model
+    //   svm.compile({ optimizer: 'sgd', loss: hingeLoss });
+
+    //   // Train the model
+    //   const numEpochs = 100;
+    //   const batchSize = 32;
+    //   await svm.fit(xs, ys, {
+    //     batchSize,
+    //     epochs: numEpochs,
+    //     callbacks: {
+    //       onEpochEnd: (epoch, logs) => {
+    //         console.log(`Epoch ${epoch}: loss = ${logs.loss}`);
+    //       }
+    //     }
+    //   });
+    //   // Use the model for prediction
+    //   const testXs = tf.randomNormal([10, numFeatures]);
+    //   const predictions = svm.predict(testXs);
+    //   predictions.print();
+//  }
     
+    function Predict() {
 
-      // async function predict () {
-      //   const tensor = tf.tensor1d([0, 0, 0, 0, 2, 3, 4]);
+      let v2, v3;
+      const v1 = (window.__bpm + window.__loudness)*window.__strength;
+      if (50 <= v1 <=100) {
+        v2 = 'Yes';
+        v3 = v1 | 0;
+      } else if (v1 < 50) {
+        v2 = 'No';
+        v3 = 100 - (v1 | 0);
+      } else if (v1 > 100) {
+        v2 = 'No';
+        v3 = (v1 | 0) - 50
+      }
+      const v4 = (v1*window.__changerate) | 0;
 
-      //   const surface = {name: 'Values Distribution', tab: 'Prediction'};
-      //   await tfvis.show.valuesDistribution(surface, tensor);
-      //   tfvis.visor().setActiveTab('Prediction')
-      //   // disable the button
-      // }
-      async function Predict() {
+      const billboardSurface = { name: 'Billboard', tab: 'Predictions' };
+      tfvis.render.table(billboardSurface, { 
+        headers: ['Would this song make it onto billboard?','Confidence Percentage'], 
+        values: [[v2, v3]] 
+      });
 
+      const spotifySurface = { name: 'Spotify', tab: 'Predictions' };
+      tfvis.render.table(spotifySurface, { 
+        headers: ['Predicted Spotify Popularity (0~100)'], 
+        values: [[v4]] 
+      });
 
-    //     const essentia = new Essentia(EssentiaWASM);
-    //     const audioCtx = new AudioContext();
-    
-    //     // let audioURL = "https://song-popularity-predictor-bucket.s3.ap-southeast-2.amazonaws.com/Sleepmakeswaves+-+It's+Dark%2C+It's+Cold%2C+It's+Winter.mp3";
-    //     let audioURL = "https://song-popularity-predictor-bucket.s3.ap-southeast-2.amazonaws.com/" + window.__filename;
-    //     console.log("audio link:",audioURL)
-
-    //     let buffer = essentia.getAudioBufferFromURL( audioURL, audioCtx )
-    //     console.log(buffer)
-    
-    //     essentia.shutdown();
-    // // delete EssentiaJS instance, free JS memory
-    //     essentia.delete();
     }
 
 

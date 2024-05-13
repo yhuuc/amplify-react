@@ -4,7 +4,6 @@ import * as tfvis from "@tensorflow/tfjs-vis";
 import PredictButton from './PredictButton';
 import ShowButton from './ShowButton';
 import FeatureExtractionButton from './FeatureExtractionButton';
-import AudioPlayer from './AudioPlayer';
 import SongUploader from "./SongUploader";
 
 function App() {
