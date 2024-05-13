@@ -28,3 +28,6 @@ yarn-error.log*
 
 # Spotify API access tokem
 /ml/.cache
+
+# other
+/ml/models
