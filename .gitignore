@@ -7,9 +7,6 @@
 
 # testing
 /coverage
-/ml_test
-/ml/tryEssentia.js
-/ml/tryLibrosa.ipynb
 /src/mlVis.js
 
 # production
@@ -26,8 +23,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Spotify API access tokem
+# Spotify API access token
 /ml/.cache
-
-# other
-/ml/models
