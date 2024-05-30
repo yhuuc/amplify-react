@@ -1,4 +1,5 @@
-import * as tfvis from '@tensorflow/tfjs-vis';
+// import * as tfvis from '@tensorflow/tfjs-vis';
+const tfvis = require('@tensorflow/tfjs-vis');
 import Essentia from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia.js-core.es.js';
 import { EssentiaWASM } from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia-wasm.es.js';
 
