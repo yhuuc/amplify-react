@@ -1,18 +1,14 @@
-This part is completed separate from the web app. It's used to develop the ML model only.
-# Dataset
-This project uses self-composed dataset for *popular vs. unpopular* song classification.
-
-## Popular Songs
-The list of popular songs alongside their ranking is obtained from [billboard Year-End Hot 100 charts](https://www.billboard.com/charts/year-end/hot-100-songs/). The data collection process includes data scraping (billboard), song data retrieval (Spotify API) and data selection. Code can be found [here.](/ml/data_collection.ipynb)
-
-## Unpopular Songs
-To creat contrast for better classification, unpopular songs are defined as the songs in the same album as popular songs but with **lowest Spotify popularity score (0-100)**, a parameter retrievable through [Spotify API](https://developer.spotify.com/documentation/web-api).
-
-Take last year (2023)'s Top 1 song ***"Last Night"*** by *Morgan Wallen* for example, it belongs to the album ***One Thing At A Time***. In the same album, the song with the lowest Spotify popularity score is ***"Had It"***, and is labelled and included in the dataset as an unpopular song.  
-
-In this way, a dataset with the same number of unpopular songs as popular ones is created. The main reason for using this method is to hopefully create distinct differences between popular and unpopular songs, so the model can classify more easily.
-
-## Feature Extraction
-To be able to produce prediction from audio files in the final web app using the same ML model, ML features need to be extracted from audio data directly. Audio data corresponding to each song is obtained through [Spotify API](https://developer.spotify.com/documentation/web-api) in the form of 30s song snippets.
-
-Features are extracted using a powerful music analysis library Essentia.js
+## Data Collection (Python)
+*[See list of all songs used in this project here.](all_songs.csv)<br><br>*
+The data was collected using Python scripts from two sources, Billboard chart and Spotify. The list of songs on [Billboard’s Year-End Chart in 2023](https://www.billboard.com/charts/year-end/hot-100-songs/) are defined as popular songs. Then through [Spotify API](https://developer.spotify.com/documentation/web-api), the albums of all popular songs are obtained, the songs in the albums with lowest Spotify popularity scores are defined as unpopular songs.<br><br>
+With 53 pairs of popular vs unpopular songs coming from 53 albums, they make up a dataset of 106 records in total. There were supposed to be 200 songs in total, since the Billboard chart had 100 popular songs. However, for audio feature extraction and model training purposes, only those with accessible audio snippets from Spotify API are kept. 
+## Feature Extraction (Essentia.js)
+*[See training data here.](train.csv)<br><br>*
+For consistency, the same algorithm needs to be used for both music feature extraction of training data and real-time feature extraction from audio files in the browser environment. The project used Essentia.js, a robust JavaScript library for audio analysis.<br>
+Eight audio features were chosen as training features for machine learning model. They are BPM, loudness, key, scale, key strength, chords changes rate, chords key and chords number rate.
+## Model Training (Python Keras with Tensorflow backend) & Model Inference (Tensorflow.js)
+*See trained [classification](../public/billboard_model) and [regression](../public/spotify_model) models.<br><br>*
+Two models were developed and used, one for Billboard presence and one for Spotify popularity. The models were trained in Python Keras with Tensorflow backend and converted to Tensorflow.js models, i.e. Json files, so they can be inferenced using tfjs in the browser to produce predictions.<br>
+The first model used binary classification to predict whether a song would be present on Billboard charts. The second model used regression to predict Spotify popularity score, which ranges from 0 to 100. 
+## Data Visualisation (tfvis)
+All data visualisation capabilities, including tables of features and predictions and charts, are supported by tfvis.

@@ -13,7 +13,7 @@ function SongUploader () {
       // S3 Credentials
       AWS.config.update({
         accessKeyId: process.env.AWS_ACCESS_KEY,
-        secretAccessKey: process.env.AWS_SECRET,
+        secretAccessKey: process.env.AWS_SECRET_KEY,
       });
 
       const s3 = new AWS.S3({
