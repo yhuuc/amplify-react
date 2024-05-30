@@ -1,102 +1,88 @@
-// import * as tf from "@tensorflow/tfjs";
 import * as tfvis from '@tensorflow/tfjs-vis';
-// import * as tfvis from "@tensorflow/tfjs-vis";
-// import * as tf from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js';
-// import * as tfvis from 'https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis';
-// import Essentia from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia.js-core.es.js';
-// import essentia-wasm-module
-// import { EssentiaWASM } from 'https://cdn.jsdelivr.net/npm/essentia.js@0.1.3/dist/essentia-wasm.es.js';
+const tf = require('@tensorflow/tfjs');
 
 function PredictButton() {
 
-    // async function Predict() {
+    async function Predict() {
 
-    //   // Generate some synthetic data
-    //   const numSamples = 100;
-    //   const numFeatures = 2;
-    //   const xs = tf.randomNormal([numSamples, numFeatures]);
-    //   const ys = tf.tidy(() => {
-    //     const scale = tf.scalar(10);
-    //     return tf.add(tf.dot(xs, tf.randomNormal([numFeatures, 1])), scale);
-    //   });
-
-    //   // Define the SVM model
-    //   const svm = tf.sequential();
-    //   svm.add(tf.layers.dense({ units: 1, inputShape: [numFeatures], activation: 'linear' }));
-
-    //   // Define the loss function
-    //   function hingeLoss(labels, predictions) {
-    //     const zero = tf.scalar(0);
-    //     const margin = tf.scalar(1);
-    //     return tf.maximum(zero, tf.sub(margin, tf.mul(labels, predictions)));
-    //   }
-
-    //   // Compile the model
-    //   svm.compile({ optimizer: 'sgd', loss: hingeLoss });
-
-    //   // Train the model
-    //   const numEpochs = 100;
-    //   const batchSize = 32;
-    //   await svm.fit(xs, ys, {
-    //     batchSize,
-    //     epochs: numEpochs,
-    //     callbacks: {
-    //       onEpochEnd: (epoch, logs) => {
-    //         console.log(`Epoch ${epoch}: loss = ${logs.loss}`);
-    //       }
-    //     }
-    //   });
-    //   // Use the model for prediction
-    //   const testXs = tf.randomNormal([10, numFeatures]);
-    //   const predictions = svm.predict(testXs);
-    //   predictions.print();
-//  }
-    
-    function Predict() {
-
-      let v2, v3, v4;
-      const v1 = (window.__bpm - window.__loudness)*window.__strength;
-
-      if (window.__filename === "guitar-drums.mp3" || window.__filename === "scifi_microwave_buttons.mp3") {
-        v2 = "No";
-        v3 = 0;
-        v4 = 0;
+      if (window.__filelink === undefined) {
+        alert("Please upload an audio file first.");
+        return;
       }
-      else {
-        if (40<=v1 && v1<=100) {
-          v2 = 'Yes';
-          v3 = (100-v1) | 0;
-        } else if (v1 < 40) {
-          v2 = 'No';
-          v3 = 100 - (v1 | 0);
-        } else if (v1 > 100) {
-          v2 = 'Yes';
-          v3 = (v1 | 0) - 100;
-        }
-        
-      if (0<window.__changerate && window.__changerate<0.5 ) {
-        v4 = ((v1*window.__changerate) | 0) + 50;
-        console.log(1, v4);
-      } else if (0.5<=window.__changerate && window.__changerate<=1 ) {
-        v4 = (v1*window.__changerate) | 0;
-        console.log(2, v4)
-      }
-    }
 
+      // Load the model
+      const billboard_model = await tf.loadLayersModel('/billboard_model/model.json');
+      const spotify_model = await tf.loadLayersModel('/spotify_model/model.json');
+
+      const keyTable = ['A','Ab','B','Bb','C','C#','D','E','Eb','F','F#','G'];
+
+      let key = keyTable;
+      for (let i=0; i<12; i++) {
+        if (key[i] ===  window.__key){
+          key[i] = 1;
+        } else {
+          key[i] = 0;
+      }}
+
+      let scale;
+      if (window.__scale === 'major'){
+        scale = [1,0];
+      } else if (window.__scale === 'minor'){
+        scale = [0,1];
+      }
+
+      let chords_key = keyTable;
+      for (let i=0; i<12; i++) {
+        if (chords_key[i] ===  window.__chords_key){
+          chords_key[i] = 1;
+        } else {
+          chords_key[i] = 0;
+      }}
+
+      const input = tf.concat([
+        tf.tensor1d([window.__bpm]),
+        tf.tensor1d([window.__loudness]),
+        tf.tensor1d(key),
+        tf.tensor1d(scale),
+        tf.tensor1d([window.__strength]),
+        tf.tensor1d([window.__chords_changes_rate]),
+        tf.tensor1d(chords_key),
+        tf.tensor1d([window.__chords_number_rate])
+      ]).reshape([-1,31]);
+      input.data().then(data => {
+        console.log(data);
+      });
+
+      // Make predictions
+      const billboard_prediction = billboard_model.predict(input).arraySync()[0][0];
+      let yesOrNo;
+      if (billboard_prediction > 0.5 || billboard_prediction === 0.5) {
+        yesOrNo="Yes";
+      } else if (billboard_prediction <0.5){
+        yesOrNo="No";
+      }
+
+      let spotify_prediction = spotify_model.predict(input).arraySync()[0][0];
+      spotify_prediction = (spotify_prediction/25).toFixed(2)
+      if (spotify_prediction<0) {
+        spotify_prediction=0;
+      } else if (spotify_prediction>100) {
+        spotify_prediction=100;
+      }
+
+      // project onto tfvis board
       const billboardSurface = { name: 'Billboard', tab: 'Predictions' };
       tfvis.render.table(billboardSurface, { 
-        headers: ['Would this song make it onto billboard?','Confidence Percentage'], 
-        values: [[v2, v3]] 
+        headers: ['Would this song make it onto billboard?','Possibility'], 
+        values: [[yesOrNo, (billboard_prediction*100).toFixed(2)+'%']] 
       });
 
       const spotifySurface = { name: 'Spotify', tab: 'Predictions' };
       tfvis.render.table(spotifySurface, { 
         headers: ['Predicted Spotify Popularity (0~100)'], 
-        values: [[v4]] 
+        values: [[spotify_prediction]] 
       });
-
-    }
-
+  }
 
     return (
         <button className="Button" type="button" onClick={Predict}>
