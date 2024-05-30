@@ -8,6 +8,9 @@ function PredictButton() {
       if (window.__filelink === undefined) {
         alert("Please upload an audio file first.");
         return;
+      } else if (window.__bpm === undefined) {
+        alert("Please click Extract Features first.");
+        return;
       }
 
       // Load the model

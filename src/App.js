@@ -1,16 +1,10 @@
-// import logo from './logo.svg';
 import './index.css';
-//import * as tfvis from "@tensorflow/tfjs-vis";
 import PredictButton from './PredictButton';
 import ShowButton from './ShowButton';
 import FeatureExtractionButton from './FeatureExtractionButton';
 import SongUploader from "./SongUploader";
 
 function App() {
-  //initialize a visor instance
-  //const visorInstance = tfvis.visor();
-  //visorInstance.close();
-
   return (
     <div className="App">
       <header className="App-header">

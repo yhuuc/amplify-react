@@ -47,6 +47,12 @@ async function Extract() {
         let tonal = essentia.TonalExtractor(signal);
         console.log(5,tonal);
 
+        // Data visualisation
+        const visorInstance = tfvis.visor();
+        if (!visorInstance.isOpen()) {
+          visorInstance.toggle();
+        }
+        
         // BPM Histogram
         const bpmSurface = { name: 'BPM Histogram', tab: 'Audio Analysis' };
         tfvis.render.histogram(bpmSurface, essentia.vectorToArray(rhythm.estimates), {color:'#6C5B7B'});

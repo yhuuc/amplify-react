@@ -5,12 +5,6 @@ function ShowButton() {
   async function openVis () {
     const visorInstance = tfvis.visor();
     visorInstance.toggle();
-      // if (!visorInstance.isOpen()) {
-      //   // if (visorInstance.isFullscreen) {
-      //   //   visorInstance.toggleFullScreen();
-      //   // }
-      //   visorInstance.toggle();
-      // }
   };
 
   return (
