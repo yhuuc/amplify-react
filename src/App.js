@@ -1,9 +1,10 @@
 import './index.css';
-import * as tfvis from "@tensorflow/tfjs-vis";
 import PredictButton from './PredictButton';
 import ShowButton from './ShowButton';
 import FeatureExtractionButton from './FeatureExtractionButton';
 import SongUploader from "./SongUploader";
+// import * as tfvis from "@tensorflow/tfjs-vis";
+const tfvis = require('@tensorflow/tfjs-vis');
 
 function App() {
   //initialize a visor instance so doesn't need to press show chart twice

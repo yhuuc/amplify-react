@@ -1,5 +1,5 @@
-import * as tfvis from '@tensorflow/tfjs-vis';
-// const tfvis = require('@tensorflow/tfjs-vis');
+// import * as tfvis from '@tensorflow/tfjs-vis';
+const tfvis = require('@tensorflow/tfjs-vis');
 const tf = require('@tensorflow/tfjs');
 
 function PredictButton() {

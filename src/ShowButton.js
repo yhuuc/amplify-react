@@ -1,5 +1,5 @@
-import * as tfvis from "@tensorflow/tfjs-vis";
-// const tfvis = require('@tensorflow/tfjs-vis');
+// import * as tfvis from "@tensorflow/tfjs-vis";
+const tfvis = require('@tensorflow/tfjs-vis');
 
 function ShowButton() {
   async function openVis () {
