@@ -1,3 +1,4 @@
+This part is completed separate from the web app. It's used to develop the ML model only.
 # Dataset
 This project uses self-composed dataset for *popular vs. unpopular* song classification.
 
